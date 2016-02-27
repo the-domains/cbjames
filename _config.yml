@@ -1,4 +1,4 @@
-name: cbjames
+name: chrisbjames
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.5031728
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 1
-  lightness: 0.2479818
-  saturation: 0.7866299
-  rhythmicContrast: 0.09130503
+    - '#fcfcfc'
+    - '#b3d2fd'
+    - '#358abf'
+    - '#204b8e'
+    - '#a18179'
+  brandStrength: 0.8125
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
