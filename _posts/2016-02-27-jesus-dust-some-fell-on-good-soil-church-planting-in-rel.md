@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.jesusdust.com'
   name: Jesusdust
-  favicon: 'http://www.jesusdust.com/favicon.ico'
   domain: www.jesusdust.com
+  url: 'http://www.jesusdust.com'
+  favicon: 'http://www.jesusdust.com/favicon.ico'
 keywords:
   - churches
   - ecologies
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.jesusdust.com/2014/06/some-fell-on-good-soil-church-planting.html'
 title: "Jesus Dust: 'Some Fell on Good Soil': Church Planting in Religious Ecologies"
-datePublished: '2016-02-27T19:37:22.051Z'
-dateModified: '2016-02-27T19:36:21.514Z'
+datePublished: '2016-02-27T19:46:25.935Z'
+dateModified: '2016-02-27T19:38:11.355Z'
 sourcePath: _posts/2016-02-27-jesus-dust-some-fell-on-good-soil-church-planting-in-rel.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
