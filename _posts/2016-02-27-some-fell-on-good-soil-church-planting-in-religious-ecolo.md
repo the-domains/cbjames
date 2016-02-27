@@ -17,8 +17,8 @@ keywords:
   - vitality
   - sociological
 description: 'In the midst of the decline of mainline denominations and the rise of the "nones" in the U.S. something surprising is happening.[i] Church planting is booming.'
-datePublished: '2016-02-27T18:54:55.891Z'
-dateModified: '2016-02-27T18:54:55.599Z'
+datePublished: '2016-02-27T19:31:04.338Z'
+dateModified: '2016-02-27T18:56:57.216Z'
 author: []
 related: []
 app_links: []
