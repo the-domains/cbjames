@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.jesusdust.com/2014/06/some-fell-on-good-soil-church-planting.html'
 title: "Jesus Dust: 'Some Fell on Good Soil': Church Planting in Religious Ecologies"
-datePublished: '2016-02-27T19:35:36.058Z'
-dateModified: '2016-02-27T19:34:17.689Z'
+datePublished: '2016-02-27T19:37:22.051Z'
+dateModified: '2016-02-27T19:36:21.514Z'
 sourcePath: _posts/2016-02-27-jesus-dust-some-fell-on-good-soil-church-planting-in-rel.md
 published: true
 inFeed: true
