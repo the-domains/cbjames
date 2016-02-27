@@ -17,8 +17,8 @@ keywords:
   - denominations
   - community
 description: 'The Pacific Northwest is one of the most fertile seedbeds for religious innovation and creativity in North America. To be sure, the separation of church and state has historically made North America as a whole an exceptionally open religious environment. That said, the Pacific Northwest (PNW) seems to exceed all other regions in its receptivity to religious experimentation.'
-datePublished: '2016-02-27T19:54:12.537Z'
-dateModified: '2016-02-27T19:54:04.491Z'
+datePublished: '2016-02-27T20:11:32.377Z'
+dateModified: '2016-02-27T20:11:18.082Z'
 author:
   - name: Christopher James
     url: 'http://christandcascadia.com/author/christopher-james/'
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Ecclesial Pioneers in the Pacific Northwest " Christ &amp; Cascadia</h1><p>The Pacific Northwest is one of the most fertile seedbeds for religious innovation and creativity in North America&amp;period; To be sure&amp;comma; the separation of church and state has historically made North America as a whole an exceptionally open religious environment&amp;period; That said&amp;comma; the Pacific Northwest &amp;lpar;PNW&amp;rpar; seems to exceed all other regions in its receptivity to religious experimentation&amp;period;</p><img src="http://christandcascadia.com/wp-content/uploads/2013/10/cool-church-architecture-m.jpg" /></article>
+<article style=""><h1>Ecclesial Pioneers in the Pacific Northwest " Christ &amp; Cascadia</h1><p>The Pacific Northwest is one of the most fertile seedbeds for religious innovation and creativity in North America. To be sure, the separation of church and state has historically made North America as a whole an exceptionally open religious environment. That said, the Pacific Northwest (PNW) seems to exceed all other regions in its receptivity to religious experimentation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91702014ba6674887e8db0ed35b41fd37dc31e0b.jpg" /></article>
