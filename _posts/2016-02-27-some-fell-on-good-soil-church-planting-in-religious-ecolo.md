@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  name: Jesusdust
-  domain: www.jesusdust.com
-  url: 'http://www.jesusdust.com'
-  favicon: 'http://www.jesusdust.com/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.jesusdust.com/2014/06/some-fell-on-good-soil-church-planting.html?m=1'
+inLanguage: en
+starred: false
 keywords:
   - churches
   - ecologies
@@ -18,18 +17,20 @@ keywords:
   - vitality
   - sociological
 description: 'In the midst of the decline of mainline denominations and the rise of the "nones" in the U.S. something surprising is happening.[i] Church planting is booming.'
-inLanguage: en
+datePublished: '2016-02-27T18:54:55.891Z'
+dateModified: '2016-02-27T18:54:55.599Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.jesusdust.com/2014/06/some-fell-on-good-soil-church-planting.html?m=1'
 title: "'Some Fell on Good Soil': Church Planting in Religious Ecologies"
-datePublished: '2016-02-27T18:48:16.626Z'
-dateModified: '2016-02-26T19:04:01.802Z'
-starred: true
 sourcePath: _posts/2016-02-27-some-fell-on-good-soil-church-planting-in-religious-ecolo.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Jesusdust
+  domain: www.jesusdust.com
+  url: 'http://www.jesusdust.com'
+  favicon: 'http://www.jesusdust.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
