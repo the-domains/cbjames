@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.jesusdust.com/2010/05/how-to-live-in-kingdom-of-god.html'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - kingdom
   - god
@@ -17,8 +17,8 @@ keywords:
   - thus
   - willard
 description: "The Kingdom (or Reign) of God is the realm in which God's will is actualized. Thus heaven is a part of the Kingdom of God, angels are citizens in the Kingdom, animal life and all creation (generally speaking) are within the Kingdom of God."
-datePublished: '2016-02-27T20:08:23.302Z'
-dateModified: '2016-02-27T20:08:22.708Z'
+datePublished: '2016-02-27T20:22:27.422Z'
+dateModified: '2016-02-27T20:15:16.563Z'
 author: []
 related: []
 app_links: []
