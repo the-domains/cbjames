@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://christandcascadia.com/ecclesial-pioneers-in-the-pacific-northwest-james/'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - church
   - seattle
@@ -17,15 +17,15 @@ keywords:
   - denominations
   - community
 description: 'The Pacific Northwest is one of the most fertile seedbeds for religious innovation and creativity in North America. To be sure, the separation of church and state has historically made North America as a whole an exceptionally open religious environment. That said, the Pacific Northwest (PNW) seems to exceed all other regions in its receptivity to religious experimentation.'
-datePublished: '2016-02-27T19:13:21.391Z'
-dateModified: '2016-02-27T19:12:33.056Z'
+datePublished: '2016-02-27T19:54:12.537Z'
+dateModified: '2016-02-27T19:54:04.491Z'
 author:
   - name: Christopher James
     url: 'http://christandcascadia.com/author/christopher-james/'
     avatar: {}
 related: []
 app_links: []
-title: 'Ecclesial Pioneers in the Pacific Northwest " Christ & Cascadia'
+title: Ecclesial Pioneers in the Pacific Northwest
 sourcePath: _posts/2016-02-27-ecclesial-pioneers-in-the-pacific-northwest-christ-and-casca.md
 published: true
 authors: []
