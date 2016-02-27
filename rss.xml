@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cbjames]]></title>
+        <description><![CDATA[cbjames]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 18:10:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>Through my work, I hope to bring together contemporary movements in missional ecclesiology and spiritual formation in the context of the church. You can read the research I proposed in my PhD application Why "Jesus Dust"?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8c5fdc8ae199101fb9f4641664908dd880afa0b.jpg"></article>]]></description>
+            <link>http://www.jesusdust.com/p/about.html?m=1</link>
+            <guid isPermaLink="false">ce74611c-33ef-42cb-a540-41a1a9a8f146</guid>
+            <pubDate>Sat, 27 Feb 2016 18:10:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
