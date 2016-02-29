@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://dbq.academia.edu'
-  name: Academia
-  favicon: 'https://a.academia-assets.com/images/favicons/favicon-production.ico'
-  domain: dbq.academia.edu
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://dbq.academia.edu/cbjames'
+inLanguage: en
+starred: false
 keywords:
   - chur
   - stetzer
@@ -18,17 +17,20 @@ keywords:
   - evangelism
   - booming
 description: 'In the midst of the decline of mainline denominations and the rise of the "nones" in the U.S. something surprising is happening.[i] Church planting is booming. According to Stetzer and Travis, the number of new chur...'
-inLanguage: en
+datePublished: '2016-02-29T01:59:13.368Z'
+dateModified: '2016-02-29T01:59:08.837Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://dbq.academia.edu/cbjames'
 title: 'Christopher B James | University of Dubuque - Academia.edu'
-datePublished: '2016-02-28T03:57:46.100Z'
-dateModified: '2016-02-27T20:19:21.284Z'
 sourcePath: _posts/2016-02-28-christopher-b-james-or-university-of-dubuque-academiaedu.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Academia
+  domain: dbq.academia.edu
+  url: 'https://dbq.academia.edu'
+  favicon: 'https://a.academia-assets.com/images/favicons/favicon-production.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
