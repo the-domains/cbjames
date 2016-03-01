@@ -17,8 +17,8 @@ keywords:
   - php
   - twitter
 description: 'The latest Tweets from Christopher B James (@chrisbjames). professor at @udseminary #missional #church #culture #churchplanting #spirituality #ecclesiology #neighborhoods #hospitality. dubuque, ia'
-datePublished: '2016-02-29T02:10:00.271Z'
-dateModified: '2016-02-29T02:09:27.825Z'
+datePublished: '2016-03-01T23:32:33.120Z'
+dateModified: '2016-02-29T02:11:51.358Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/1510482227/IMG_20110320_060437_bigger.jpg'
@@ -60,5 +60,3 @@ _context: 'http://schema.org'
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7714a35c7ffd3e24334c923eb6739fb361038703.jpg)
-
->
