@@ -1,6 +1,6 @@
 name: Christopher B. James
 favicon: null
-layout_spectrum: 0.77811
+layout_spectrum: 0.63755
 typography_spectrum: 0.71867
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#754104'
     - '#bc0611'
     - '#d8b288'
-  brandStrength: 0.25
-  lightness: 0.5625
-  saturation: 0.625
+  brandStrength: 0.125
+  lightness: 0.375
+  saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
