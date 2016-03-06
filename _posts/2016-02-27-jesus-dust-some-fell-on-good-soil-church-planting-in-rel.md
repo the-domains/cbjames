@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.jesusdust.com/2014/06/some-fell-on-good-soil-church-planting.html'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - churches
   - ecologies
@@ -17,8 +17,8 @@ keywords:
   - vitality
   - sociological
 description: 'In the midst of the decline of mainline denominations and the rise of the "nones" in the U.S. something surprising is happening.[i] Church planting is booming.'
-datePublished: '2016-02-27T20:22:22.213Z'
-dateModified: '2016-02-27T20:15:22.381Z'
+datePublished: '2016-03-06T03:28:00.108Z'
+dateModified: '2016-03-06T03:27:59.870Z'
 author: []
 related: []
 app_links: []
