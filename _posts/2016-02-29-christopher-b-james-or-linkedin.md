@@ -17,20 +17,20 @@ keywords:
   - ministry
   - education
 description: Director of Master of Arts in Mission and Discipleship degree
-datePublished: '2016-02-29T02:17:57.314Z'
-dateModified: '2016-02-29T02:17:45.990Z'
+datePublished: '2016-03-06T03:25:42.570Z'
+dateModified: '2016-02-29T02:18:02.706Z'
 author: []
 related: []
 app_links: []
 title: 'Christopher B. James | LinkedIn'
+sourcePath: _posts/2016-02-29-christopher-b-james-or-linkedin.md
+published: true
 authors: []
 publisher:
   name: LinkedIn
   domain: www.linkedin.com
   url: 'http://linkedin.com'
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
-sourcePath: _posts/2016-02-29-christopher-b-james-or-linkedin.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
