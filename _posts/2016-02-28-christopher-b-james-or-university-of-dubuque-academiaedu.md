@@ -17,8 +17,8 @@ keywords:
   - evangelism
   - booming
 description: 'In the midst of the decline of mainline denominations and the rise of the "nones" in the U.S. something surprising is happening.[i] Church planting is booming. According to Stetzer and Travis, the number of new chur...'
-datePublished: '2016-02-29T02:10:07.131Z'
-dateModified: '2016-02-29T02:08:33.679Z'
+datePublished: '2016-03-06T03:25:10.138Z'
+dateModified: '2016-03-06T03:25:09.879Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Christopher B James on Academia.edu</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/080108c1c95395b63e97827132f19078fd08f283.jpg" /></article>
+<article style=""><h1>Christopher B. James on Academia.edu</h1><p>In the midst of the decline of mainline denominations and the rise of the "nones" in the U.S. something surprising is happening.[i] Church planting is booming. According to Stetzer and Travis, the number of new chur...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/080108c1c95395b63e97827132f19078fd08f283.jpg" /></article>
