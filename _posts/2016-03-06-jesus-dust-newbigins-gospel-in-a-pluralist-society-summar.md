@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.jesusdust.com'
-  name: Jesusdust
-  favicon: 'http://www.jesusdust.com/favicon.ico'
-  domain: www.jesusdust.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.jesusdust.com/2012/07/newbigins-gospel-in-pluralist-society.html'
+inLanguage: en
+starred: false
 keywords:
   - newbigin
   - gospel
@@ -18,17 +17,20 @@ keywords:
   - salvation
   - religions
 description: 'A while back I was invited to speak to a group called Theology on Tap about "The Gospel in a Post-Christian World. The topic, it seemed to me, begged two questions. The first is "What is the gospel?" and the second is "Where are we? What is this post-Christian world in which we live?"'
-inLanguage: en
+datePublished: '2016-03-06T03:30:10.986Z'
+dateModified: '2016-03-06T03:30:01.713Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.jesusdust.com/2012/07/newbigins-gospel-in-pluralist-society.html'
 title: "Jesus Dust: Newbigin's Gospel in a Pluralist Society: Summary"
-datePublished: '2016-03-06T03:29:57.818Z'
-dateModified: '2016-03-06T03:28:18.960Z'
 sourcePath: _posts/2016-03-06-jesus-dust-newbigins-gospel-in-a-pluralist-society-summar.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Jesusdust
+  domain: www.jesusdust.com
+  url: 'http://www.jesusdust.com'
+  favicon: 'http://www.jesusdust.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
