@@ -17,20 +17,20 @@ keywords:
   - congregational
   - studies
 description: "Since I couldn't find a good list of schools with PhD programs in Practical Theology (US) anywhere on the web, I made my own: Boston University School of Theology A PhD in Practical Theology with concentrations in homiletics, liturgical studies, mission, evangelism, mission and evangelism, pastoral theology, spirituality, church and society, congregational studies and religious education."
-datePublished: '2016-03-06T03:18:27.937Z'
-dateModified: '2016-03-06T03:18:17.721Z'
+datePublished: '2016-03-06T03:45:24.888Z'
+dateModified: '2016-03-06T03:45:13.902Z'
 author: []
 related: []
 app_links: []
 title: 'Jesus Dust: PhD Programs in Practical Theology: A List'
+sourcePath: _posts/2016-03-06-jesus-dust-phd-programs-in-practical-theology-a-list.md
+published: true
 authors: []
 publisher:
   name: Jesusdust
   domain: www.jesusdust.com
   url: 'http://www.jesusdust.com'
   favicon: 'http://www.jesusdust.com/favicon.ico'
-sourcePath: _posts/2016-03-06-jesus-dust-phd-programs-in-practical-theology-a-list.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
