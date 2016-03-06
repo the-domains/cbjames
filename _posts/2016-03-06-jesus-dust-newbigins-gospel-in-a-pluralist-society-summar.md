@@ -17,12 +17,12 @@ keywords:
   - salvation
   - religions
 description: 'A while back I was invited to speak to a group called Theology on Tap about "The Gospel in a Post-Christian World. The topic, it seemed to me, begged two questions. The first is "What is the gospel?" and the second is "Where are we? What is this post-Christian world in which we live?"'
-datePublished: '2016-03-06T03:30:10.986Z'
-dateModified: '2016-03-06T03:30:01.713Z'
+datePublished: '2016-03-06T03:32:13.783Z'
+dateModified: '2016-03-06T03:31:20.867Z'
 author: []
 related: []
 app_links: []
-title: "Jesus Dust: Newbigin's Gospel in a Pluralist Society: Summary"
+title: "Newbigin's Gospel in a Pluralist Society: Summary"
 sourcePath: _posts/2016-03-06-jesus-dust-newbigins-gospel-in-a-pluralist-society-summar.md
 published: true
 authors: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Jesus Dust&amp;colon; Newbigin's Gospel in a Pluralist Society&amp;colon; Summary</h1><p>A while back I was invited to speak to a group called Theology on Tap about "The Gospel in a Post-Christian World&amp;period; The topic&amp;comma; it seemed to me&amp;comma; begged two questions&amp;period; The first is "What is the gospel&amp;quest;" and the second is "Where are we&amp;quest; What is this post-Christian world in which we live&amp;quest;"</p><img src="http://2.bp.blogspot.com/-rj-Y094PojM/T9kREczqjcI/AAAAAAAADK8/CSBgefZBC3U/s640/Blind_men_and_elephant3.jpg" /></article>
+<article style=""><h1>Newbigin's Gospel in a Pluralist Society: Summary</h1><p>A while back I was invited to speak to a group called Theology on Tap about "The Gospel in a Post-Christian World. The topic, it seemed to me, begged two questions. The first is "What is the gospel?" and the second is "Where are we? What is this post-Christian world in which we live?"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ca9761d5a141683c138a96da15737cdd97f44ff.jpg" /></article>
