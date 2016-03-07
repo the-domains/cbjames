@@ -17,8 +17,8 @@ keywords:
   - thus
   - willard
 description: "The Kingdom (or Reign) of God is the realm in which God's will is actualized. Thus heaven is a part of the Kingdom of God, angels are citizens in the Kingdom, animal life and all creation (generally speaking) are within the Kingdom of God."
-datePublished: '2016-03-06T03:39:50.482Z'
-dateModified: '2016-03-06T03:39:49.652Z'
+datePublished: '2016-03-07T02:27:04.228Z'
+dateModified: '2016-03-07T02:27:03.895Z'
 author: []
 related: []
 app_links: []
