@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.jesusdust.com'
-  name: Jesusdust
-  favicon: 'http://www.jesusdust.com/favicon.ico'
-  domain: www.jesusdust.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.jesusdust.com/2015/05/new-wineskins-for-new-wine-my-interview.html'
+inLanguage: en
+starred: false
 keywords:
   - sillman
   - andee
@@ -18,19 +17,22 @@ keywords:
   - seattle
   - christian
 description: 'The bit of buzz in Seattle around my research into church planting in the city led to this hour-long interview with Andee Zommerman, host of the Rose City Forum in Portland. The show has recently hosted such guests as Doug Pagitt, Christian Piatt, and Rachel Held Evans.'
-inLanguage: en
+datePublished: '2016-03-07T02:27:50.261Z'
+dateModified: '2016-03-07T02:27:41.453Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.jesusdust.com/2015/05/new-wineskins-for-new-wine-my-interview.html'
 title: 'Jesus Dust: New Wineskins for New Wine: My interview on Rose City Forum'
-datePublished: '2016-03-07T02:21:07.622Z'
-dateModified: '2016-03-06T03:49:17.727Z'
 sourcePath: _posts/2016-03-07-jesus-dust-new-wineskins-for-new-wine-my-interview-on-rose.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Jesusdust
+  domain: www.jesusdust.com
+  url: 'http://www.jesusdust.com'
+  favicon: 'http://www.jesusdust.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Jesus Dust&amp;colon; New Wineskins for New Wine&amp;colon; My interview on Rose City Forum</h1><p>The bit of buzz in Seattle around my research into church planting in the city led to this hour-long interview with Andee Zommerman&amp;comma; host of the Rose City Forum in Portland&amp;period; The show has recently hosted such guests as Doug Pagitt&amp;comma; Christian Piatt&amp;comma; and Rachel Held Evans&amp;period;</p><img src="http://4.bp.blogspot.com/-VyxXa5_wGkY/VVzSFaDA2gI/AAAAAAAAEf0/jnYfpksfVXA/s200/rosecityforum.jpg" /></article>
+<article style=""><h1>New Wineskins for New Wine: My interview on Rose City Forum</h1><p>The bit of buzz in Seattle around my research into church planting in the city led to this hour-long interview with Andee Zommerman, host of the Rose City Forum in Portland. The show has recently hosted such guests as Doug Pagitt, Christian Piatt, and Rachel Held Evans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5a544d0d794ef311f7af0ccbf1c7730c139f5ee.jpg" /></article>
