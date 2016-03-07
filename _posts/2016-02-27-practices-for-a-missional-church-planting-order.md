@@ -17,8 +17,8 @@ keywords:
   - rule
   - ignatian
 description: What practices can sustain missional practice and spiritual vitality among church planters?
-datePublished: '2016-03-07T03:47:37.953Z'
-dateModified: '2016-03-07T03:47:35.231Z'
+datePublished: '2016-03-07T03:57:45.925Z'
+dateModified: '2016-03-07T03:57:39.057Z'
 author:
   - name: Christopher B James
     url: 'http://journalofmissionalpractice.com/author/christopher-b-james/'
