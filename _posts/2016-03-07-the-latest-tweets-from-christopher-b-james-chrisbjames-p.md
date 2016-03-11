@@ -17,8 +17,8 @@ keywords:
   - church
   - jesus
 description: 'The latest Tweets from Christopher B James (@chrisbjames). professor at @udseminary #missional #church #culture #churchplanting #spirituality #ecclesiology #neighborhoods #hospitality. dubuque, ia'
-datePublished: '2016-03-11T16:47:22.936Z'
-dateModified: '2016-03-11T16:47:22.381Z'
+datePublished: '2016-03-11T16:50:28.838Z'
+dateModified: '2016-03-11T16:49:38.182Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/628908870572703744/3fPMv26W_bigger.jpg'
@@ -46,7 +46,7 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-title: ''
+title: '@chrisbjames on Twitter'
 sourcePath: _posts/2016-03-07-the-latest-tweets-from-christopher-b-james-chrisbjames-p.md
 published: true
 authors: []
