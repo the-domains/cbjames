@@ -17,8 +17,8 @@ keywords:
   - salvation
   - religions
 description: 'A while back I was invited to speak to a group called Theology on Tap about "The Gospel in a Post-Christian World. The topic, it seemed to me, begged two questions. The first is "What is the gospel?" and the second is "Where are we? What is this post-Christian world in which we live?"'
-datePublished: '2016-03-11T16:53:20.907Z'
-dateModified: '2016-03-11T16:53:05.868Z'
+datePublished: '2016-03-11T16:54:56.012Z'
+dateModified: '2016-03-11T16:53:30.305Z'
 author: []
 related: []
 app_links: []
