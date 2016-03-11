@@ -17,12 +17,12 @@ keywords:
   - salvation
   - religions
 description: 'A while back I was invited to speak to a group called Theology on Tap about "The Gospel in a Post-Christian World. The topic, it seemed to me, begged two questions. The first is "What is the gospel?" and the second is "Where are we? What is this post-Christian world in which we live?"'
-datePublished: '2016-03-07T03:21:12.861Z'
-dateModified: '2016-03-07T03:20:50.630Z'
+datePublished: '2016-03-11T16:53:20.907Z'
+dateModified: '2016-03-11T16:53:05.868Z'
 author: []
 related: []
 app_links: []
-title: "Newbigin's Gospel in a Pluralist Society: Summary"
+title: "Newbigin's Gospel in a Pluralist Society"
 sourcePath: _posts/2016-03-06-jesus-dust-newbigins-gospel-in-a-pluralist-society-summar.md
 published: true
 authors: []
