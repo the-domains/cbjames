@@ -17,12 +17,12 @@ keywords:
   - vitality
   - sociological
 description: 'In the midst of the decline of mainline denominations and the rise of the "nones" in the U.S. something surprising is happening.[i] Church planting is booming.'
-datePublished: '2016-03-06T03:28:00.108Z'
-dateModified: '2016-03-06T03:27:59.870Z'
+datePublished: '2016-03-11T16:55:09.606Z'
+dateModified: '2016-03-11T16:55:09.297Z'
 author: []
 related: []
 app_links: []
-title: "Jesus Dust: 'Some Fell on Good Soil': Church Planting in Religious Ecologies"
+title: "'Some Fell on Good Soil': Church Planting in Religious Ecologies"
 sourcePath: _posts/2016-02-27-jesus-dust-some-fell-on-good-soil-church-planting-in-rel.md
 published: true
 authors: []
