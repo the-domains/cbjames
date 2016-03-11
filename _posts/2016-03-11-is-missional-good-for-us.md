@@ -17,20 +17,20 @@ keywords:
   - bible
   - joy
 description: 'Is "being missional" just another Christian guilt trip?'
-datePublished: '2016-03-11T16:46:43.270Z'
-dateModified: '2016-03-11T16:46:31.564Z'
+datePublished: '2016-03-11T16:47:39.152Z'
+dateModified: '2016-03-11T16:46:48.606Z'
 author: []
 related: []
 app_links: []
 title: Is Missional Good for Us?
+sourcePath: _posts/2016-03-11-is-missional-good-for-us.md
+published: true
 authors: []
 publisher:
   name: Jesusdust
   domain: www.jesusdust.com
   url: 'http://www.jesusdust.com'
   favicon: 'http://www.jesusdust.com/favicon.ico'
-sourcePath: _posts/2016-03-11-is-missional-good-for-us.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
