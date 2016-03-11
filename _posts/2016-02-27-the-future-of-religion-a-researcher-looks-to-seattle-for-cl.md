@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://kuow.org/post/future-religion-researcher-looks-seattle-clues'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - sillman
   - seattle
@@ -17,8 +17,8 @@ keywords:
   - religion
   - james
 description: Marcie Sillman talks with Chris James of Dubuque University about his study on Seattle churches and what they can tell us about the future of religion.
-datePublished: '2016-02-27T20:13:31.466Z'
-dateModified: '2016-02-27T20:12:18.633Z'
+datePublished: '2016-03-11T17:10:09.165Z'
+dateModified: '2016-03-11T17:09:33.982Z'
 author: []
 related: []
 app_links: []
