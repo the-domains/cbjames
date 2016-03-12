@@ -17,20 +17,20 @@ keywords:
   - life
   - testament
 description: This is Part Two in my series on Light as a Biblical Metaphor.
-datePublished: '2016-03-12T01:58:14.402Z'
-dateModified: '2016-03-12T01:58:02.609Z'
+datePublished: '2016-03-12T02:03:36.242Z'
+dateModified: '2016-03-12T01:58:21.404Z'
 author: []
 related: []
 app_links: []
 title: 'Jesus Dust: Light as a Biblical Metaphor Pt. 2'
+sourcePath: _posts/2016-03-12-jesus-dust-light-as-a-biblical-metaphor-pt-2.md
+published: true
 authors: []
 publisher:
   name: Jesusdust
   domain: www.jesusdust.com
   url: 'http://www.jesusdust.com'
   favicon: 'http://www.jesusdust.com/favicon.ico'
-sourcePath: _posts/2016-03-12-jesus-dust-light-as-a-biblical-metaphor-pt-2.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
