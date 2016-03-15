@@ -17,12 +17,12 @@ keywords:
   - thus
   - willard
 description: "The Kingdom (or Reign) of God is the realm in which God's will is actualized. Thus heaven is a part of the Kingdom of God, angels are citizens in the Kingdom, animal life and all creation (generally speaking) are within the Kingdom of God."
-datePublished: '2016-03-07T02:27:04.228Z'
-dateModified: '2016-03-07T02:27:03.895Z'
+datePublished: '2016-03-15T13:55:26.008Z'
+dateModified: '2016-03-15T13:55:18.098Z'
 author: []
 related: []
 app_links: []
-title: 'Jesus Dust: How to Live in the Kingdom of God'
+title: How to Live in the Kingdom of God
 sourcePath: _posts/2016-02-27-jesus-dust-how-to-live-in-the-kingdom-of-god.md
 published: true
 authors: []
