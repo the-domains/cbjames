@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://journalofmissionalpractice.com/rapid-response-to-practices-for-a-missional-church-planting-order-by-christopher-b-james/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - spiritual
   - ignatius
@@ -17,8 +17,8 @@ keywords:
   - rule
   - ignatian
 description: What practices can sustain missional practice and spiritual vitality among church planters?
-datePublished: '2016-03-11T17:06:51.959Z'
-dateModified: '2016-03-11T17:06:46.864Z'
+datePublished: '2016-03-15T13:55:08.655Z'
+dateModified: '2016-03-15T13:55:08.351Z'
 author:
   - name: Christopher B James
     url: 'http://journalofmissionalpractice.com/author/christopher-b-james/'
