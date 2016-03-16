@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.academia.edu/4220888/Missional_Acuity_20th_Century_In
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-16T21:34:40.496Z'
-dateModified: '2016-03-16T21:34:40.279Z'
+description: What kind of Christian spirituality is needed to foster and enliven missional living?
+datePublished: '2016-03-16T21:49:54.873Z'
+dateModified: '2016-03-16T21:49:51.135Z'
 author: []
 related: []
 app_links: []
