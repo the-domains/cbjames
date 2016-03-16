@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is "Jesus - Revolution of Love (Mark Scandrette) animate.Faith Sparkhouse" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-03-15T14:02:50.936Z'
-dateModified: '2016-03-15T14:02:40.535Z'
+datePublished: '2016-03-16T20:26:06.272Z'
+dateModified: '2016-03-15T14:02:58.450Z'
 author:
   - name: Sparkhouse
     url: 'http://vimeo.com/user18601416'
@@ -41,14 +41,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Jesus - Revolution of Love (Mark Scandrette) animate.Faith Sparkhouse
+sourcePath: _posts/2016-03-15-jesus-revolution-of-love-mark-scandrette-animatefaith-s.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-15-jesus-revolution-of-love-mark-scandrette-animatefaith-s.md
-published: true
 url: jesus-revolution-of-love-mark-scandrette-animatefaith-s/index.html
 _type: VideoObject
 _context: 'http://schema.org'
