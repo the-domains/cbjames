@@ -16,13 +16,13 @@ keywords:
   - midst
   - evangelism
   - booming
-description: 'In the midst of the decline of mainline denominations and the rise of the "nones" in the U.S. something surprising is happening.[i] Church planting is booming. According to Stetzer and Travis, the number of new chur...'
-datePublished: '2016-03-16T20:38:37.174Z'
-dateModified: '2016-03-16T20:38:26.926Z'
+description: Selected Articles
+datePublished: '2016-03-16T20:42:43.517Z'
+dateModified: '2016-03-16T20:42:36.570Z'
 author: []
 related: []
 app_links: []
-title: Christopher B. James on  Academia.edu
+title: Christopher B. James on Academia.edu
 sourcePath: _posts/2016-02-28-christopher-b-james-or-university-of-dubuque-academiaedu.md
 published: true
 authors: []
