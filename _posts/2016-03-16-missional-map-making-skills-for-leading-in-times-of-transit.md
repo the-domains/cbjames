@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "My review of Roxburgh's Missional Map-Making, published in Witness, volume 25 (2011)."
-datePublished: '2016-03-16T20:25:38.648Z'
-dateModified: '2016-03-16T20:25:38.197Z'
+datePublished: '2016-03-16T20:27:36.607Z'
+dateModified: '2016-03-16T20:27:35.962Z'
 title: 'Missional Map-Making: Skills for Leading in Times of Transition by Alan J. Roxburg (Review)'
 author: []
 sourcePath: _posts/2016-03-16-missional-map-making-skills-for-leading-in-times-of-transit.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6998ae32-61de-44f2-8c03-bbe6d57ad6dd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4c0767b763e17eb30f9070444b09860345be4ce.jpg)
 
 In
 contrast to proliferating titles touting strategies for helping yours become a
