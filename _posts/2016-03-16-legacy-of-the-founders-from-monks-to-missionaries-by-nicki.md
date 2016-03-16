@@ -6,21 +6,21 @@ isBasedOnUrl: 'https://www.academia.edu/4498135/Legacy_of_the_Founders_From_Monk
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-16T21:20:59.253Z'
-dateModified: '2016-03-16T21:12:35.401Z'
+description: 'My Review of Legacy of the Founders: From Monks to Missionaries by Nicki Verploegen. Originally published in Missiology: An International Review.'
+datePublished: '2016-03-16T21:25:01.955Z'
+dateModified: '2016-03-16T21:24:43.681Z'
 author: []
 related: []
 app_links: []
-title: 'Legacy of the Founders: From Monks to Missionaries by Nicki Verploegen (Review)'
+title: 'Legacy of the Founders: From Monks to Missionaries (Review)'
+sourcePath: _posts/2016-03-16-legacy-of-the-founders-from-monks-to-missionaries-by-nicki.md
+published: true
 authors: []
 publisher:
   name: Academia
   domain: www.academia.edu
   url: 'http://www.academia.edu'
   favicon: 'http://a.academia-assets.com/images/favicons/favicon-production.ico'
-sourcePath: _posts/2016-03-16-legacy-of-the-founders-from-monks-to-missionaries-by-nicki.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
