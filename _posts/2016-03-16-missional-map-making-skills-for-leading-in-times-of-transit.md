@@ -6,27 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "My review of Roxburgh's Missional Map-Making, published in Witness, volume 25 (2011)."
-datePublished: '2016-03-16T20:22:48.072Z'
-dateModified: '2016-03-16T20:22:47.612Z'
+datePublished: '2016-03-16T20:24:20.835Z'
+dateModified: '2016-03-16T20:24:20.581Z'
 title: 'Missional Map-Making: Skills for Leading in Times of Transition by Alan J. Roxburg (Review)'
 author: []
+sourcePath: _posts/2016-03-16-missional-map-making-skills-for-leading-in-times-of-transit.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-missional-map-making-skills-for-leading-in-times-of-transit.md
-published: true
 url: missional-map-making-skills-for-leading-in-times-of-transit/index.html
 _type: Article
 
 ---
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6998ae32-61de-44f2-8c03-bbe6d57ad6dd.jpg)
-
-_Witness: Journal of the
-Academy for Evangelism in Theological Education, _vol. 25_(_
 
 In
 contrast to proliferating titles touting strategies for helping yours become a
@@ -43,33 +40,31 @@ made. He attributes the failure of
 modernity's map to the effects of eight currents of change: globalization,
 pluralism, rapid technological change, postmodernism, staggering global need,
 loss of confidence in primary structures, the democratization of knowledge and
-the return to Romanticism. 
-
-In this
+the return to Romanticism. In this
 transformed world, strategic planning is impotent to form missional community
 (79). Even the sociological and
 historical work of missional authors such as Alan Hirsch are judged to be blatant
 efforts to exercise the kind of control and management no longer possible
-(109).
+(109). 
 
 While Roxburgh spends the greater part of his book
 developing his portrait of a world in flux and the plight of ministry in this
 context, his most promising contributions are found in the final chapters where
 he outlines an alternative approach to cultivating missional community.
 
-In step one, the leader begins to assess how
+In **step one**, the leader begins to assess how
 the environment has changed in the local context. This investigation should privilege people's
 stories over demographic data.
 
 Roxburgh
-calls step two "redeveloping a core identity," by which he means cultivating
+calls **step two** "redeveloping a core identity," by which he means cultivating
 environments in which people can begin to believe they are God's people and
 thus have the capacity to hear God in the biblical narratives, and in their own
-lives (140).
-
-Here, eliciting people's
+lives (140). Here, eliciting people's
 stories creates both a space of trust and a corporate sense that these stories may
-be crucial in discerning God's future locally. Step three calls for the
+be crucial in discerning God's future locally. 
+
+**Step three** calls for the
 creation of a parallel culture through experiments in Christian practices. Roxburgh urges that this be done in small
 ways, not church-wide campaigns. This
 could take shape as a group that meets to discuss their experience with the
@@ -77,8 +72,8 @@ daily offices of prayer, a monthly practice of hosting a stranger for dinner,
 intentional friendships with the poor, and serious learning engagement with the
 Biblical story.
 
-The fourth and final
-step is forming partnerships with the surrounding neighborhoods and
+**The fourth and final
+step** is forming partnerships with the surrounding neighborhoods and
 communities. The initiative for these
 partnerships should arise from the ordinary people of God, for it is among
 them, Roxburgh believes, that that Spirit of God dwells (170). Thus, it is they who must ultimately be the
