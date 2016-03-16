@@ -17,8 +17,8 @@ keywords:
   - evangelism
   - booming
 description: Selected Articles
-datePublished: '2016-03-16T20:42:43.517Z'
-dateModified: '2016-03-16T20:42:36.570Z'
+datePublished: '2016-03-16T21:51:44.454Z'
+dateModified: '2016-03-16T21:47:56.607Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d757a76e-9381-464f-ab1c-ccd7884b5a1a.jpg)
+![Selected Articles](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1babb8d10e47c297f91ac0914ab2f9e395debb2d.jpg)
