@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.academia.edu/4277640/Missional_Mapmaking_by_Alan_Roxb
 inLanguage: null
 starred: false
 keywords: []
-description: By Christopher B James in Leadership and Ecclesiology.
-datePublished: '2016-03-16T20:54:12.796Z'
-dateModified: '2016-03-16T20:52:11.253Z'
+description: "My Review of Alan Roxburgh's Missional Mapmaking: Skills for Leading in Times of Transition. Originally Published in Witness Journal. "
+datePublished: '2016-03-16T20:56:13.658Z'
+dateModified: '2016-03-16T20:56:03.022Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Missional Mapmaking by Alan Roxburgh (Review)</h1><p>By Christopher B James in Leadership and Ecclesiology.</p><img src="http://a.academia-assets.com/images/open-graph-icons/fb-paper.gif" /></article>
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7c754117bfe308f8362f1588d7b71f260a57885.jpg)
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15abf2b1-99b4-468b-85f9-4a779af5d53d.jpg)
+<article style=""><h1>Missional Mapmaking by Alan Roxburgh (Review)</h1><p>My Review of Alan Roxburgh's Missional Mapmaking: Skills for Leading in Times of Transition. Originally Published in Witness Journal. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59a2380b16079d8d6709bcc63a0f340f8454126f.gif" /></article>
