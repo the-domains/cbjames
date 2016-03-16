@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T21:20:59.193Z'
-dateModified: '2016-03-16T21:20:48.443Z'
+datePublished: '2016-03-16T21:27:05.245Z'
+dateModified: '2016-03-16T21:23:17.223Z'
 author: []
 related: []
 app_links: []
 title: 'Missional Acuity: 20th Century Insights Toward a Redemptive Way of Seeing'
+sourcePath: _posts/2016-03-16-missional-acuity-20th-century-insights-toward-a-redemptive.md
+published: true
 authors: []
 publisher:
   name: Academia
   domain: www.academia.edu
   url: 'http://www.academia.edu'
   favicon: 'http://a.academia-assets.com/images/favicons/favicon-production.ico'
-sourcePath: _posts/2016-03-16-missional-acuity-20th-century-insights-toward-a-redemptive.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
