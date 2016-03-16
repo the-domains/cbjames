@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "My Review of Alan Roxburgh's Missional Mapmaking: Skills for Leading in Times of Transition. Originally Published in Witness Journal. "
-datePublished: '2016-03-16T20:59:45.287Z'
-dateModified: '2016-03-16T20:59:33.227Z'
+datePublished: '2016-03-16T21:00:28.805Z'
+dateModified: '2016-03-16T20:59:54.609Z'
 author: []
 related: []
 app_links: []
