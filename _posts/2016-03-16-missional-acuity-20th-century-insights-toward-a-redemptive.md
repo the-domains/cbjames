@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T21:27:05.245Z'
-dateModified: '2016-03-16T21:23:17.223Z'
+datePublished: '2016-03-16T21:34:40.496Z'
+dateModified: '2016-03-16T21:34:40.279Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![What kind of Christian spirituality is needed to foster and enliven missional living?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a2d96a4-d757-48a9-96ed-3e04454c868a.png)
+![What kind of Christian spirituality is needed to foster and enliven missional living?](https://s3-us-west-2.amazonaws.com/the-grid-img/p/84f1cc553a7576d15872a11f7d6e469df1b6562e.png)
