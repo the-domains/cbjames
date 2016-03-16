@@ -17,8 +17,8 @@ keywords:
   - evangelism
   - booming
 description: 'In the midst of the decline of mainline denominations and the rise of the "nones" in the U.S. something surprising is happening.[i] Church planting is booming. According to Stetzer and Travis, the number of new chur...'
-datePublished: '2016-03-16T20:35:02.888Z'
-dateModified: '2016-03-16T20:34:02.611Z'
+datePublished: '2016-03-16T20:38:37.174Z'
+dateModified: '2016-03-16T20:38:26.926Z'
 author: []
 related: []
 app_links: []
