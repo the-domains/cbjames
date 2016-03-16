@@ -17,8 +17,8 @@ keywords:
   - church
   - jesus
 description: 'The latest Tweets from Christopher B James (@chrisbjames). professor at @udseminary #missional #church #culture #churchplanting #spirituality #ecclesiology #neighborhoods #hospitality. dubuque, ia'
-datePublished: '2016-03-11T16:50:28.838Z'
-dateModified: '2016-03-11T16:49:38.182Z'
+datePublished: '2016-03-16T20:41:19.445Z'
+dateModified: '2016-03-16T20:40:37.459Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/628908870572703744/3fPMv26W_bigger.jpg'
@@ -61,4 +61,4 @@ _context: 'http://schema.org'
 ---
 ![@chrisbjames on Twitter](https://s3-us-west-2.amazonaws.com/the-grid-img/p/523d6cd9093e9bfba74cbc48c688459981ca2f4e.jpg)
 
-> The latest Tweets from Christopher B James (@chrisbjames). professor at @udseminary \#missional \#church \#culture \#churchplanting \#spirituality \#ecclesiology \#neighborhoods \#hospitality. dubuque, ia
+>
