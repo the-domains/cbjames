@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: "My Review of Alan Roxburgh's Missional Mapmaking: Skills for Leading in Times of Transition. Originally Published in Witness Journal. "
-datePublished: '2016-03-16T20:56:13.658Z'
-dateModified: '2016-03-16T20:56:03.022Z'
+datePublished: '2016-03-16T20:56:58.129Z'
+dateModified: '2016-03-16T20:56:23.169Z'
 author: []
 related: []
 app_links: []
 title: Missional Mapmaking by Alan Roxburgh (Review)
+sourcePath: _posts/2016-03-16-missional-mapmaking-by-alan-roxburgh-review.md
+published: true
 authors: []
 publisher:
   name: Academia
   domain: www.academia.edu
   url: 'http://www.academia.edu'
   favicon: 'http://a.academia-assets.com/images/favicons/favicon-production.ico'
-sourcePath: _posts/2016-03-16-missional-mapmaking-by-alan-roxburgh-review.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
