@@ -17,8 +17,8 @@ keywords:
   - bible
   - joy
 description: 'Is "being missional" just another Christian guilt trip?'
-datePublished: '2016-03-16T21:38:32.840Z'
-dateModified: '2016-03-16T21:38:31.071Z'
+datePublished: '2016-03-16T21:42:11.120Z'
+dateModified: '2016-03-16T21:38:41.263Z'
 author: []
 related: []
 app_links: []
