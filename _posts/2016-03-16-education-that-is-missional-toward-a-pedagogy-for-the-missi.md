@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.academia.edu/4277683/Education_that_is_Missional_Towa
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-16T21:27:13.059Z'
-dateModified: '2016-03-16T21:26:59.680Z'
+description: What are  the implications of missional theology for Christian religious education in congregations?
+datePublished: '2016-03-16T21:39:28.232Z'
+dateModified: '2016-03-16T21:36:16.356Z'
 author: []
 related: []
 app_links: []
