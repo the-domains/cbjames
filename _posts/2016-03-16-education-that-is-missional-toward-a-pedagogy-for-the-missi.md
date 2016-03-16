@@ -7,22 +7,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T21:20:59.254Z'
-dateModified: '2016-03-16T21:16:52.158Z'
+datePublished: '2016-03-16T21:26:53.204Z'
+dateModified: '2016-03-16T21:26:47.009Z'
 author: []
 related: []
 app_links: []
 title: 'Education that is Missional: Toward a Pedagogy for the Missional Church'
+sourcePath: _posts/2016-03-16-education-that-is-missional-toward-a-pedagogy-for-the-missi.md
+published: true
 authors: []
 publisher:
   name: Academia
   domain: www.academia.edu
   url: 'http://www.academia.edu'
   favicon: 'http://a.academia-assets.com/images/favicons/favicon-production.ico'
-sourcePath: _posts/2016-03-16-education-that-is-missional-toward-a-pedagogy-for-the-missi.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Education that is Missional: Toward a Pedagogy for the Missional Church.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/967fb42f-d01d-4f22-a0f3-7e17491051fa.png)
+![What are the implications of missional theology for Christian religious education in congregations?](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7f11825e412b3cd1ca30271300c655262149c88.png)
