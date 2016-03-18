@@ -16,9 +16,9 @@ keywords:
   - commands
   - bible
   - joy
-description: 'Is "being missional" just another Christian guilt trip?'
-datePublished: '2016-03-16T21:42:37.753Z'
-dateModified: '2016-03-16T21:42:28.339Z'
+description: 'For those who sense that "being missional" is just another Christian guilt trip.'
+datePublished: '2016-03-18T14:56:49.701Z'
+dateModified: '2016-03-18T14:45:07.533Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Is Missional Good for Us?</h1><p>Is "being missional" just another Christian guilt trip?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/225126e807f170ed9d4c52174da615ff71d4c693.jpg" /></article>
+<article style=""><h1>Is Missional Good for Us?</h1><p>For those who sense that "being missional" is just another Christian guilt trip.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/225126e807f170ed9d4c52174da615ff71d4c693.jpg" /></article>
