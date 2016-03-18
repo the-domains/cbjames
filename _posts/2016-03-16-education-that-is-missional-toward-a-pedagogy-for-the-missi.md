@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What are  the implications of missional theology for Christian religious education in congregations?
-datePublished: '2016-03-16T21:39:28.232Z'
-dateModified: '2016-03-16T21:36:16.356Z'
+datePublished: '2016-03-18T13:46:25.393Z'
+dateModified: '2016-03-18T13:46:20.056Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![What are the implications of missional theology for Christian religious education in congregations?](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7f11825e412b3cd1ca30271300c655262149c88.png)
+![What are the implications of missional theology for Christian religious education in congregations?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2589d2e3-aad7-48fd-b127-6d9763b45e1b.jpg)
