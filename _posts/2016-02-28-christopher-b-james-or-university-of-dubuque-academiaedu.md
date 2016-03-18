@@ -16,9 +16,9 @@ keywords:
   - midst
   - evangelism
   - booming
-description: Selected Articles
-datePublished: '2016-03-16T21:51:44.454Z'
-dateModified: '2016-03-16T21:47:56.607Z'
+description: 'Selected Articles on Missional Praxis, Spiritual Formation, and Congregational Studies. '
+datePublished: '2016-03-18T14:57:13.463Z'
+dateModified: '2016-03-18T14:52:38.324Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Selected Articles](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1babb8d10e47c297f91ac0914ab2f9e395debb2d.jpg)
+![Selected Articles on Missional Praxis, Spiritual Formation, and Congregational Studies. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1babb8d10e47c297f91ac0914ab2f9e395debb2d.jpg)
