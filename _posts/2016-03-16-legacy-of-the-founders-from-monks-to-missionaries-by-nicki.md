@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'My Review of Legacy of the Founders: From Monks to Missionaries by Nicki Verploegen. Originally published in Missiology: An International Review.'
-datePublished: '2016-03-16T21:27:21.868Z'
-dateModified: '2016-03-16T21:25:09.793Z'
+datePublished: '2016-03-18T13:57:17.063Z'
+dateModified: '2016-03-18T13:51:43.633Z'
 author: []
 related: []
 app_links: []
