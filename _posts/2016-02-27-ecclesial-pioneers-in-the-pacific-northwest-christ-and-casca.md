@@ -17,8 +17,8 @@ keywords:
   - denominations
   - community
 description: 'The Pacific Northwest is one of the most fertile seedbeds for religious innovation and creativity in North America. To be sure, the separation of church and state has historically made North America as a whole an exceptionally open religious environment. That said, the Pacific Northwest (PNW) seems to exceed all other regions in its receptivity to religious experimentation.'
-datePublished: '2016-03-18T13:39:57.298Z'
-dateModified: '2016-03-18T13:39:53.623Z'
+datePublished: '2016-03-18T13:57:44.768Z'
+dateModified: '2016-03-18T13:40:04.830Z'
 author:
   - name: Christopher James
     url: 'http://christandcascadia.com/author/christopher-james/'
