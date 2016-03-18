@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'My review of Perspectives on Ecclesiology and Ethnography edited by Pete Ward. Originally published in Missiology: An International Review.'
-datePublished: '2016-03-16T21:32:19.373Z'
-dateModified: '2016-03-16T21:32:14.390Z'
+datePublished: '2016-03-18T14:40:24.047Z'
+dateModified: '2016-03-18T14:40:23.733Z'
 author: []
 related: []
 app_links: []
