@@ -17,8 +17,8 @@ keywords:
   - religion
   - james
 description: Marcie Sillman talks with Chris James of Dubuque University about his study on Seattle churches and what they can tell us about the future of religion.
-datePublished: '2016-03-18T14:40:35.810Z'
-dateModified: '2016-03-18T14:01:49.340Z'
+datePublished: '2016-03-19T20:32:21.272Z'
+dateModified: '2016-03-19T20:32:17.636Z'
 author: []
 related: []
 app_links: []
