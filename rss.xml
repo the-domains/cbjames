@@ -4,7 +4,7 @@
         <description><![CDATA[Christopher B. James]]></description>
         <link>http://www.chrisbjames.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 20:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 19:20:50 GMT</lastBuildDate>
         <atom:link href="http://www.chrisbjames.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Practices for a Missional Church Planting Order]]></title>
@@ -12,6 +12,13 @@
             <link>http://journalofmissionalpractice.com/rapid-response-to-practices-for-a-missional-church-planting-order-by-christopher-b-james/</link>
             <guid isPermaLink="false">98484fe0-49a1-4594-b598-4b12fe1c0efe</guid>
             <pubDate>Tue, 15 Mar 2016 13:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[churchnow]]></title>
+            <description><![CDATA[<article><h1>churchnow</h1><p>Content curated by Christopher B. James on church, culture, and neighborhoods. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1d4a7ba33b2e61f81a440d0d9e052e2c6651c92.png"></article>]]></description>
+            <link>https://thegrid.ai/churchnow/</link>
+            <guid isPermaLink="false">27cb7a24-0dae-4483-bddc-cc084db12059</guid>
+            <pubDate>Sun, 20 Mar 2016 19:20:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Missional Good for Us?]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/chrisbjames</link>
             <guid isPermaLink="false">39452b7f-f218-4fd1-8406-31f1ac402a34</guid>
             <pubDate>Fri, 18 Mar 2016 13:46:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspectives on Ecclesiology & Ethnography (Review)]]></title>
-            <description><![CDATA[<article><h1>Perspectives on Ecclesiology & Ethnography (Review)</h1><p>My review of Perspectives on Ecclesiology and Ethnography edited by Pete Ward. Originally published in Missiology: An International Review.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16565d122fadd8a6bf9caa160efe90da0e7c4f9d.jpg"></article>]]></description>
-            <link>https://www.academia.edu/4498138/Perspectives_on_Ecclesiology_and_Ethnography_edited_by_Pete_Ward_Review_</link>
-            <guid isPermaLink="false">ecee3c87-e439-4df7-8ef9-f15114f714a7</guid>
-            <pubDate>Fri, 18 Mar 2016 14:40:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
