@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Learn about Master of Arts in Mission and Discipleship at University of Dubuque Theological Seminary
-datePublished: '2016-03-21T20:31:35.889Z'
-dateModified: '2016-03-21T20:31:14.245Z'
+datePublished: '2016-03-21T20:34:15.078Z'
+dateModified: '2016-03-21T20:34:11.400Z'
 author:
   - name: UDBQMedia
     url: 'https://www.youtube.com/user/UDBQMedia'
