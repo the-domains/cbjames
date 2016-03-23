@@ -17,8 +17,8 @@ keywords:
   - religion
   - james
 description: "NPR's Marcie Sillman talks with Christopher James of the University of Dubuque about his study of new Seattle churches and what they can tell us about the future of religion."
-datePublished: '2016-03-23T01:57:12.051Z'
-dateModified: '2016-03-23T01:57:06.670Z'
+datePublished: '2016-03-23T02:50:35.483Z'
+dateModified: '2016-03-23T02:50:28.072Z'
 author: []
 related: []
 app_links: []
