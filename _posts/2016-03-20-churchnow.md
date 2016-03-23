@@ -7,12 +7,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Content curated by Christopher B. James on church, culture, and neighborhoods. '
-datePublished: '2016-03-21T15:31:38.555Z'
-dateModified: '2016-03-21T15:31:38.355Z'
+datePublished: '2016-03-23T02:52:20.920Z'
+dateModified: '2016-03-23T02:52:18.747Z'
 author: []
 related: []
 app_links: []
-title: Church Now
+title: CHURCH NOW
 sourcePath: _posts/2016-03-20-churchnow.md
 published: true
 authors: []
