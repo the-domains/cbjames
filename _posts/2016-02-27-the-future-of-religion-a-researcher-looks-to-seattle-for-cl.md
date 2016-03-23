@@ -17,8 +17,8 @@ keywords:
   - religion
   - james
 description: "NPR's Marcie Sillman talks with Christopher James of the University of Dubuque about his study of new Seattle churches and what they can tell us about the future of religion."
-datePublished: '2016-03-23T02:50:35.483Z'
-dateModified: '2016-03-23T02:50:28.072Z'
+datePublished: '2016-03-23T19:21:27.490Z'
+dateModified: '2016-03-23T19:21:19.558Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Future Of Religion? A Researcher Looks To Seattle For Clues</h1><p>Marcie Sillman talks with Chris James of Dubuque University about his study on Seattle churches and what they can tell us about the future of religion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abd41cbdbec2a7be4ee23e65e87150069e843657.jpg" /></article>
+<article style=""><h1>The Future Of Religion? A Researcher Looks To Seattle For Clues</h1><p>Marcie Sillman talks with Christopher James of the University of Dubuque about his study of new Seattle churches and what they can tell us about the future of religion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abd41cbdbec2a7be4ee23e65e87150069e843657.jpg" /></article>
