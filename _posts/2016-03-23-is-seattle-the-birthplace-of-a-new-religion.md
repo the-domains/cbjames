@@ -16,9 +16,9 @@ keywords:
   - christianity
   - overton
   - seminarians
-description: Seattle Met article features my research on New Seattle Churches
-datePublished: '2016-03-23T21:49:01.851Z'
-dateModified: '2016-03-23T21:48:40.164Z'
+description: "Kathryn Robinson's latest article in the Seattle Met features my research on New Seattle Churches: \"Turns out “post-Christian” Seattle is fertile ground for new church starts.\""
+datePublished: '2016-03-23T22:05:46.290Z'
+dateModified: '2016-03-23T22:05:39.288Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Is Seattle the Birthplace of a New Religion?</h1><p>Seattle Met features my research on New Seattle Churches</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/205b09e685387a5d5408f9d36269625cb1cbe750.jpg" /></article>
+<article style=""><h1>Is Seattle the Birthplace of a New Religion?</h1><p>Kathryn Robinson's latest article in the Seattle Met features my research on New Seattle Churches: "Turns out “post-Christian” Seattle is fertile ground for new church starts."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/205b09e685387a5d5408f9d36269625cb1cbe750.jpg" /></article>
