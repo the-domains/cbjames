@@ -16,8 +16,8 @@ keywords:
   - overton
   - seminarians
 description: "Kathryn Robinson's latest article in the Seattle Met features my research on New Seattle Churches: \"Turns out “post-Christian” Seattle is fertile ground for new church starts.\""
-datePublished: '2016-05-27T21:03:39.970Z'
-dateModified: '2016-05-27T21:03:39.701Z'
+datePublished: '2016-05-27T21:08:16.913Z'
+dateModified: '2016-05-27T21:08:13.811Z'
 author:
   - name: Kathryn Robinson
     url: 'http://www.seattlemet.com/producers/kathryn-robinson'
@@ -31,7 +31,7 @@ publisher:
   domain: www.seattlemet.com
   url: 'http://www.seattlemet.com'
   favicon: 'http://www.seattlemet.com/assets/seattle_met/favicon-552f527adfcaafadf828db37de3915cf70c6742c44b70abf802bb4983b74f19d.ico'
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
