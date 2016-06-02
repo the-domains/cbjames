@@ -16,8 +16,8 @@ keywords:
   - james
   - certificate
 description: 'What do church plants in one of the most post-Christian cities in the nation have to teach us? While national headlines herald the decline of Christianity in the United States, scarcely heard are stories from the thousands of new churches and new forms of church that are springing up each year across the country.'
-datePublished: '2016-06-02T21:33:36.259Z'
-dateModified: '2016-06-02T15:38:37.456Z'
+datePublished: '2016-06-02T21:34:36.022Z'
+dateModified: '2016-06-02T21:34:35.602Z'
 author:
   - name: Fuller Institute for Theology and Northwest Culture
     url: 'http://christandcascadia.com/author/admin/'
