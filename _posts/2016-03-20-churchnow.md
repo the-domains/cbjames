@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Stories, articles and videos curated by Christopher B. James on church, culture, and neighborhoods. '
-datePublished: '2016-06-02T21:53:09.134Z'
-dateModified: '2016-06-02T21:53:08.783Z'
+datePublished: '2016-06-02T21:56:23.849Z'
+dateModified: '2016-06-02T21:56:16.118Z'
 author:
   - name: ''
     url: ''
