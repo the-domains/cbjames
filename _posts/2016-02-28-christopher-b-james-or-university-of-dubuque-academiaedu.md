@@ -1,10 +1,8 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://dbq.academia.edu/cbjames'
+hasPage: true
+inNav: true
 inLanguage: en
-starred: false
 keywords:
   - chur
   - stetzer
@@ -17,20 +15,23 @@ keywords:
   - evangelism
   - booming
 description: 'Selected Articles on Missional Praxis, Spiritual Formation, and Congregational Studies. '
-datePublished: '2016-03-18T14:57:13.463Z'
-dateModified: '2016-03-18T14:52:38.324Z'
-author: []
+datePublished: '2016-06-02T21:41:46.321Z'
+dateModified: '2016-06-02T21:39:20.301Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Christopher B. James on Academia.edu
 sourcePath: _posts/2016-02-28-christopher-b-james-or-university-of-dubuque-academiaedu.md
-published: true
 authors: []
 publisher:
   name: Academia
   domain: dbq.academia.edu
   url: 'https://dbq.academia.edu'
   favicon: 'https://a.academia-assets.com/images/favicons/favicon-production.ico'
+starred: false
+url: christopher-b-james-on-academiaedu/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
