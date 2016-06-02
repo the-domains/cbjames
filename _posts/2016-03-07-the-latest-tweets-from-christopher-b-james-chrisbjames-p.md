@@ -14,9 +14,9 @@ keywords:
   - udseminary
   - church
   - jesus
-description: ''
-datePublished: '2016-06-02T21:53:21.816Z'
-dateModified: '2016-06-02T21:53:21.256Z'
+description: '@chrisbjames on Twitter'
+datePublished: '2016-06-02T21:56:54.450Z'
+dateModified: '2016-06-02T21:56:42.686Z'
 author:
   - name: ''
     url: ''
@@ -26,7 +26,7 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-title: '@chrisbjames on Twitter'
+title: Twitter
 sourcePath: _posts/2016-03-07-the-latest-tweets-from-christopher-b-james-chrisbjames-p.md
 authors: []
 publisher:
