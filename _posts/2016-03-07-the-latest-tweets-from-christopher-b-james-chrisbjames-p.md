@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 keywords:
   - http
@@ -15,8 +15,8 @@ keywords:
   - church
   - jesus
 description: ''
-datePublished: '2016-06-02T21:41:36.348Z'
-dateModified: '2016-06-02T21:41:34.519Z'
+datePublished: '2016-06-02T21:50:20.428Z'
+dateModified: '2016-06-02T21:50:00.206Z'
 author:
   - name: ''
     url: ''
