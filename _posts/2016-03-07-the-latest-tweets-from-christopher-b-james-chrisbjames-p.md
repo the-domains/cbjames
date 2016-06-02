@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
@@ -15,8 +15,8 @@ keywords:
   - church
   - jesus
 description: '@chrisbjames on Twitter'
-datePublished: '2016-06-02T21:56:54.450Z'
-dateModified: '2016-06-02T21:56:42.686Z'
+datePublished: '2016-06-02T22:00:09.388Z'
+dateModified: '2016-06-02T21:59:56.784Z'
 author:
   - name: ''
     url: ''
