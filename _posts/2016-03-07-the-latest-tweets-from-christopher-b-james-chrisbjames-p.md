@@ -15,8 +15,8 @@ keywords:
   - church
   - jesus
 description: ''
-datePublished: '2016-06-02T21:50:20.428Z'
-dateModified: '2016-06-02T21:50:00.206Z'
+datePublished: '2016-06-02T21:53:21.816Z'
+dateModified: '2016-06-02T21:53:21.256Z'
 author:
   - name: ''
     url: ''
