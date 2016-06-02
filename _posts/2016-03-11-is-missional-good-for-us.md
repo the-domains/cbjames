@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.jesusdust.com/2013/03/is-missional-good-for-us.html'
 inLanguage: en
-starred: false
 keywords:
   - life
   - jesus
@@ -17,20 +16,22 @@ keywords:
   - bible
   - joy
 description: 'For those who sense that "being missional" is just another Christian guilt trip.'
-datePublished: '2016-03-18T14:56:49.701Z'
-dateModified: '2016-03-18T14:45:07.533Z'
-author: []
+datePublished: '2016-06-02T21:57:09.311Z'
+dateModified: '2016-06-02T21:57:08.945Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Is Missional Good for Us?
 sourcePath: _posts/2016-03-11-is-missional-good-for-us.md
-published: true
 authors: []
 publisher:
   name: Jesusdust
   domain: www.jesusdust.com
   url: 'http://www.jesusdust.com'
   favicon: 'http://www.jesusdust.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
