@@ -15,10 +15,10 @@ keywords:
   - evangelism
   - booming
 description: 'Selected Articles on Missional Praxis, Spiritual Formation, and Congregational Studies. '
-datePublished: '2016-06-03T14:50:04.320Z'
-dateModified: '2016-06-03T14:49:44.767Z'
+datePublished: '2016-06-03T14:51:55.894Z'
+dateModified: '2016-06-03T14:51:42.821Z'
 author:
-  - name: ''
+  - name: Christopher B. James
     url: ''
 related: []
 app_links: []
