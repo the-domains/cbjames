@@ -15,8 +15,8 @@ keywords:
   - evangelism
   - booming
 description: 'Selected Articles on Missional Praxis, Spiritual Formation, and Congregational Studies. '
-datePublished: '2016-06-02T21:55:05.568Z'
-dateModified: '2016-06-02T21:54:58.509Z'
+datePublished: '2016-06-03T14:50:04.320Z'
+dateModified: '2016-06-03T14:49:44.767Z'
 author:
   - name: ''
     url: ''
