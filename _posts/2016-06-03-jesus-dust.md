@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: A blog by Christopher B. James
-datePublished: '2016-06-06T15:27:37.415Z'
-dateModified: '2016-06-06T15:27:34.470Z'
+datePublished: '2016-06-06T15:29:27.154Z'
+dateModified: '2016-06-06T15:29:22.609Z'
 title: Jesus Dust
 author:
   - name: Christopher B. James
