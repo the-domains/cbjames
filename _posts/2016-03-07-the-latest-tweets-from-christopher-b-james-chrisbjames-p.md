@@ -15,14 +15,15 @@ keywords:
   - church
   - jesus
 description: '@chrisbjames on Twitter'
-datePublished: '2016-06-02T22:00:09.388Z'
-dateModified: '2016-06-02T21:59:56.784Z'
+datePublished: '2016-06-07T14:29:14.319Z'
+dateModified: '2016-06-07T14:29:08.523Z'
 author:
-  - name: ''
+  - name: Christopher B. James
     url: ''
 related: []
 app_links:
-  - path: 'twitter/user?screen_name=chrisbjames&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile'
+  - path: >-
+      twitter/user?screen_name=chrisbjames&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile
     package: com.twitter.android
     namespace: google
     type: android
@@ -40,4 +41,4 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
-![@chrisbjames on Twitter](https://s3-us-west-2.amazonaws.com/the-grid-img/p/523d6cd9093e9bfba74cbc48c688459981ca2f4e.jpg)
+![@chrisbjames on Twitter](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d88c570-421c-424f-897c-fafa163cd428.jpg)
