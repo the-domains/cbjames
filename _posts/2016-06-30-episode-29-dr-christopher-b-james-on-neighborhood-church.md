@@ -23,8 +23,8 @@ description: >-
   (Great Commission Team, Household of the Spirit, New Community, and
   Neighborhood Incarnation), and the gifts and liabilities of neighborhood
   expressions of the church.
-datePublished: '2016-06-30T16:02:04.449Z'
-dateModified: '2016-06-30T16:01:59.108Z'
+datePublished: '2016-06-30T16:02:49.581Z'
+dateModified: '2016-06-30T16:02:12.776Z'
 author:
   - name: Ben Katt
     url: www.replacingchurch.org
