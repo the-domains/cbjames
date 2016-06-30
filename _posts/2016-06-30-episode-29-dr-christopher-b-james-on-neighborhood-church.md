@@ -23,8 +23,8 @@ description: >-
   (Great Commission Team, Household of the Spirit, New Community, and
   Neighborhood Incarnation), and the gifts and liabilities of neighborhood
   expressions of the church.
-datePublished: '2016-06-30T15:58:44.573Z'
-dateModified: '2016-06-30T15:57:49.851Z'
+datePublished: '2016-06-30T15:59:36.352Z'
+dateModified: '2016-06-30T15:59:12.339Z'
 author:
   - name: PodBean Development
     url: null
