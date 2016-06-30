@@ -17,23 +17,21 @@ keywords:
   - liabilities
   - dynamics
 description: >-
-  Dr. Christopher B. James joins me to talk about his research on church
+  Dr. Christopher B. James joins Ben Katt to talk about his research on church
   planting in Seattle, including the unique dynamics of the so-called " None
   Zone," the four expressions of church that his extensive research identified
   (Great Commission Team, Household of the Spirit, New Community, and
   Neighborhood Incarnation), and the gifts and liabilities of neighborhood
   expressions of the church.
-datePublished: '2016-06-30T16:00:24.764Z'
-dateModified: '2016-06-30T16:00:17.057Z'
+datePublished: '2016-06-30T16:02:04.449Z'
+dateModified: '2016-06-30T16:01:59.108Z'
 author:
-  - name: PodBean Development
-    url: null
+  - name: Ben Katt
+    url: www.replacingchurch.org
     avatar: {}
 related: []
 app_links: []
-title: >-
-  Episode 29: Dr. Christopher B. James on Neighborhood Church Planting & the
-  None Zone | Researcher, Professor & Practitioner
+title: Interview on RePlacing Church Podcast
 sourcePath: _posts/2016-06-30-episode-29-dr-christopher-b-james-on-neighborhood-church.md
 authors: []
 publisher:
@@ -47,4 +45,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Episode 29: Dr. Christopher B. James on Neighborhood Church Planting &amp; the None Zone | Researcher, Professor &amp; Practitioner</h1><p>Dr. Christopher B. James joins me to talk about his research on church planting in Seattle, including the unique dynamics of the so-called " None Zone," the four expressions of church that his extensive research identified (Great Commission Team, Household of the Spirit, New Community, and Neighborhood Incarnation), and the gifts and liabilities of neighborhood expressions of the church.</p><img src="http://benkatt.podbean.com/mf/web/75v4dg/headshot5.jpg" /></article>
+<article style=""><h1>Interview on RePlacing Church Podcast</h1><p>Dr. Christopher B. James joins Ben Katt to talk about his research on church planting in Seattle, including the unique dynamics of the so-called " None Zone," the four expressions of church that his extensive research identified (Great Commission Team, Household of the Spirit, New Community, and Neighborhood Incarnation), and the gifts and liabilities of neighborhood expressions of the church.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa0a8e74e8df0378290a527c39352a1d/noop.jpg?input=http%3A%2F%2Fs59.podbean.com%2Fpb%2F4e977b7c5bbf77cf8cb4526ee7ca29e5%2F57741688%2Fdata2%2Ffs77%2F943536%2Fuploads%2Fheadshot5.jpg" /></article>
