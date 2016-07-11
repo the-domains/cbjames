@@ -23,8 +23,8 @@ description: >-
   (Great Commission Team, Household of the Spirit, New Community, and
   Neighborhood Incarnation), and the gifts and liabilities of neighborhood
   expressions of the church.
-datePublished: '2016-06-30T17:35:55.529Z'
-dateModified: '2016-06-30T17:34:50.628Z'
+datePublished: '2016-07-11T14:09:16.410Z'
+dateModified: '2016-07-11T14:09:00.862Z'
 author:
   - name: Ben Katt
     url: www.replacingchurch.org
@@ -40,7 +40,7 @@ publisher:
   url: 'http://benkatt.podbean.com'
   favicon: >-
     http://benkatt.podbean.com/e/episode-29-dr-christopher-b-james-on-neighborhood-church-planting-the-none-zone-researcher-professor-practitioner/-1
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
