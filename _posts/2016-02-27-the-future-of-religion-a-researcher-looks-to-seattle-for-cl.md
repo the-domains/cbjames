@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://kuow.org/post/future-religion-researcher-looks-seattle-clues'
 inLanguage: en
-starred: false
 keywords:
   - sillman
   - seattle
@@ -16,21 +15,27 @@ keywords:
   - downtown
   - religion
   - james
-description: "NPR's Marcie Sillman talks with Christopher James of the University of Dubuque about his study of new Seattle churches and what they can tell us about the future of religion."
-datePublished: '2016-03-23T19:21:27.490Z'
-dateModified: '2016-03-23T19:21:19.558Z'
-author: []
+description: >-
+  Marcie Sillman talks with Christopher James of the University of Dubuque about
+  his study of new Seattle churches and what they can tell us about the future
+  of religion.
+datePublished: '2016-07-15T14:55:28.304Z'
+dateModified: '2016-07-15T14:55:23.081Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: The Future Of Religion? A Researcher Looks To Seattle For Clues
-sourcePath: _posts/2016-02-27-the-future-of-religion-a-researcher-looks-to-seattle-for-cl.md
-published: true
+sourcePath: >-
+  _posts/2016-02-27-the-future-of-religion-a-researcher-looks-to-seattle-for-cl.md
 authors: []
 publisher:
   name: Kuow
   domain: kuow.org
   url: 'http://kuow.org'
   favicon: null
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
