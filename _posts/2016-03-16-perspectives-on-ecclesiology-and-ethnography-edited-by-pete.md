@@ -2,19 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'https://www.academia.edu/4498138/Perspectives_on_Ecclesiology_and_Ethnography_edited_by_Pete_Ward_Review_'
+isBasedOnUrl: >-
+  https://www.academia.edu/4498138/Perspectives_on_Ecclesiology_and_Ethnography_edited_by_Pete_Ward_Review_
 inLanguage: null
 keywords: []
-description: 'My review of Perspectives on Ecclesiology and Ethnography edited by Pete Ward. Originally published in Missiology: An International Review.'
-datePublished: '2016-06-03T14:50:57.049Z'
-dateModified: '2016-06-03T14:48:14.813Z'
+description: >-
+  My review of Perspectives on Ecclesiology and Ethnography edited by Pete Ward.
+  Originally published in Missiology: An International Review.
+datePublished: '2016-07-15T14:19:07.691Z'
+dateModified: '2016-07-11T14:23:53.793Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
 title: Perspectives on Ecclesiology and Ethnography (Review)
-sourcePath: _posts/2016-03-16-perspectives-on-ecclesiology-and-ethnography-edited-by-pete.md
+sourcePath: >-
+  _posts/2016-03-16-perspectives-on-ecclesiology-and-ethnography-edited-by-pete.md
 authors: []
 publisher:
   name: Academia
@@ -26,4 +30,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![My review of Perspectives on Ecclesiology and Ethnography edited by Pete Ward. Originally published in Missiology: An International Review.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/62d187e5c5497934d5746ac809bb384dc2a1d8a1.jpg)
+![My review of Perspectives on Ecclesiology and Ethnography edited by Pete Ward. Originally published in Missiology: An International Review.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9d0d4638e256e2f262ccfb76ef65625/croprotate.jpg?cropheight=1080&cropwidth=710&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F62d187e5c5497934d5746ac809bb384dc2a1d8a1.jpg&x=0&y=0)
