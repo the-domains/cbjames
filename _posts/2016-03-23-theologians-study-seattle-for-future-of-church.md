@@ -2,9 +2,9 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://legacy.king5.com/story/news/local/seattle/2015/03/30/seattle-religious-affiliation-future-of-church/70687648/'
+isBasedOnUrl: >-
+  http://legacy.king5.com/story/news/local/seattle/2015/03/30/seattle-religious-affiliation-future-of-church/70687648/
 inLanguage: en
-starred: false
 keywords:
   - church
   - seattle
@@ -16,21 +16,26 @@ keywords:
   - started
   - sociologists
   - theologians
-description: 'The Pacific Northwest is often called the "None Zone" because of the number of people who claim no religious affiliation. Yet, theologians and sociologists are paying close attention to churches in Seattle.'
-datePublished: '2016-03-23T19:16:48.636Z'
-dateModified: '2016-03-23T19:16:41.492Z'
-author: []
+description: >-
+  The Pacific Northwest is often called the "None Zone" because of the number of
+  people who claim no religious affiliation. Yet, theologians and sociologists
+  are paying close attention to churches in Seattle.
+datePublished: '2016-07-15T14:52:34.431Z'
+dateModified: '2016-07-15T14:51:50.791Z'
+author:
+  - name: Alison Morrow
+    url: 'https://twitter.com/alisonmorrowk5'
 related: []
 app_links: []
-title: "Theologians study Seattle for future of 'church'"
+title: Theologians study Seattle for future of 'church'
+sourcePath: _posts/2016-03-23-theologians-study-seattle-for-future-of-church.md
 authors: []
 publisher:
   name: KING5
   domain: legacy.king5.com
   url: 'http://legacy.king5.com'
   favicon: 'http://cdn.tegna-tv.com/sites/king5/images/favicon.png'
-sourcePath: _posts/2016-03-23-theologians-study-seattle-for-future-of-church.md
-published: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
