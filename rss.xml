@@ -4,8 +4,15 @@
         <description><![CDATA[Christopher B. James]]></description>
         <link>http://chrisbjames.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 14:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 14:55:30 GMT</lastBuildDate>
         <atom:link href="http://chrisbjames.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Future Of Religion? A Researcher Looks To Seattle For Clues]]></title>
+            <description><![CDATA[<article><h1>The Future Of Religion? A Researcher Looks To Seattle For Clues</h1><p>Marcie Sillman talks with Christopher James of the University of Dubuque about his study of new Seattle churches and what they can tell us about the future of religion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abd41cbdbec2a7be4ee23e65e87150069e843657.jpg"></article>]]></description>
+            <link>http://kuow.org/post/future-religion-researcher-looks-seattle-clues</link>
+            <guid isPermaLink="false">c27a1211-a728-449e-9039-f34d36ede822</guid>
+            <pubDate>Fri, 15 Jul 2016 14:55:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Some Fell on Good Soil': Church Planting in Religious Ecologies]]></title>
             <description><![CDATA[<article><h1>'Some Fell on Good Soil': Church Planting in Religious Ecologies</h1><p>In the midst of the decline of mainline denominations and the rise of the "nones" in the U.S. something surprising is happening. Church planting is booming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/607ab523b80f8502af018de9a33b8726369b99bf.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.umc.org/news-and-media/how-a-church-shares-faith-where-faith-is-suspect</link>
             <guid isPermaLink="false">e3b4f19c-39b8-4bb5-8bd1-d0f0ed90669b</guid>
             <pubDate>Mon, 11 Jul 2016 14:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Featured in "Is Seattle the Birthplace of a New Religion?"]]></title>
-            <description><![CDATA[<article><h1>Featured in "Is Seattle the Birthplace of a New Religion?"</h1><p>Kathryn Robinson's latest article in the Seattle Met features my research on New Seattle Churches: "Turns out “post-Christian” Seattle is fertile ground for new church starts."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/205b09e685387a5d5408f9d36269625cb1cbe750.jpg"></article>]]></description>
-            <link>http://www.seattlemet.com/articles/2016/3/23/is-seattle-the-birthplace-of-a-new-religion</link>
-            <guid isPermaLink="false">d644feb3-54c8-46a9-8b8d-1f29cbcf71fb</guid>
-            <pubDate>Mon, 11 Jul 2016 13:44:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
