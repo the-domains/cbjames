@@ -15,11 +15,11 @@ keywords:
   - church
   - jesus
 description: '@chrisbjames on Twitter'
-datePublished: '2016-06-07T14:29:14.319Z'
-dateModified: '2016-06-07T14:29:08.523Z'
+datePublished: '2016-07-15T14:51:50.892Z'
+dateModified: '2016-07-15T14:28:24.819Z'
 author:
-  - name: Christopher B. James
-    url: ''
+  - name: Click through to @chrisbjames on Twitter
+    url: 'https://twitter.com/chrisbjames'
 related: []
 app_links:
   - path: >-
