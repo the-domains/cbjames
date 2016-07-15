@@ -19,8 +19,8 @@ description: >-
   In the midst of the decline of mainline denominations and the rise of the
   "nones" in the U.S. something surprising is happening. Church planting is
   booming.
-datePublished: '2016-07-15T14:19:44.145Z'
-dateModified: '2016-07-15T14:19:43.844Z'
+datePublished: '2016-07-15T14:20:01.132Z'
+dateModified: '2016-07-15T14:19:57.760Z'
 author:
   - name: ''
     url: ''
@@ -34,7 +34,7 @@ publisher:
   domain: www.jesusdust.com
   url: 'http://www.jesusdust.com'
   favicon: 'http://www.jesusdust.com/favicon.ico'
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
