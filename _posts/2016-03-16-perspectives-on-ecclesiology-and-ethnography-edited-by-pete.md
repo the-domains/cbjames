@@ -9,8 +9,8 @@ keywords: []
 description: >-
   My review of Perspectives on Ecclesiology and Ethnography edited by Pete Ward.
   Originally published in Missiology: An International Review.
-datePublished: '2016-07-15T14:19:07.691Z'
-dateModified: '2016-07-11T14:23:53.793Z'
+datePublished: '2016-07-26T21:08:03.449Z'
+dateModified: '2016-07-26T21:08:02.874Z'
 author:
   - name: ''
     url: ''
@@ -21,10 +21,12 @@ sourcePath: >-
   _posts/2016-03-16-perspectives-on-ecclesiology-and-ethnography-edited-by-pete.md
 authors: []
 publisher:
-  name: Academia
-  domain: www.academia.edu
-  url: 'http://www.academia.edu'
-  favicon: 'http://a.academia-assets.com/images/favicons/favicon-production.ico'
+  name: 'Missiology: An International Review'
+  domain: null
+  url: >-
+    https://www.academia.edu/4498138/Perspectives_on_Ecclesiology_and_Ethnography_edited_by_Pete_Ward_Review_
+  favicon: null
+via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
