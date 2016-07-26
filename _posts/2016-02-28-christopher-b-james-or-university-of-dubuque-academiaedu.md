@@ -17,8 +17,8 @@ keywords:
 description: >-
   Selected Articles on Missional Praxis, Spiritual Formation, and Congregational
   Studies. 
-datePublished: '2016-07-26T17:55:28.883Z'
-dateModified: '2016-07-26T17:55:05.619Z'
+datePublished: '2016-07-26T21:07:51.306Z'
+dateModified: '2016-07-26T17:55:37.464Z'
 author:
   - name: ''
     url: ''
