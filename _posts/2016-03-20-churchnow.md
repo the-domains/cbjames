@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Stories, articles and videos curated by Christopher B. James on church,
   culture, and neighborhoods. 
-datePublished: '2016-07-27T20:40:16.923Z'
-dateModified: '2016-07-27T20:40:16.187Z'
+datePublished: '2016-08-02T18:17:40.719Z'
+dateModified: '2016-08-02T18:17:26.419Z'
 author:
   - name: >-
       Click through for stories, articles and videos on church, culture, and
@@ -18,13 +18,13 @@ related: []
 app_links: []
 title: CHURCH NOW
 sourcePath: _posts/2016-03-20-churchnow.md
+via: {}
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-via: {}
 starred: false
 url: church-now/index.html
 _context: 'http://schema.org'
