@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://thegrid.ai/churchnow/'
 inLanguage: null
 keywords: []
 description: >-
   Stories, articles and videos curated by Christopher B. James on church,
   culture, and neighborhoods. 
-datePublished: '2016-08-02T18:22:37.635Z'
-dateModified: '2016-08-02T18:22:16.266Z'
+datePublished: '2016-08-02T19:24:49.399Z'
+dateModified: '2016-08-02T19:17:00.739Z'
 author:
   - name: ''
     url: ''
@@ -19,12 +20,11 @@ sourcePath: _posts/2016-03-20-churchnow.md
 via: {}
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
-url: church-now/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
