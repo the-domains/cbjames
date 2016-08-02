@@ -20,16 +20,20 @@ description: >-
   “A lot of churches have closed, and I expect more of them to follow in the
   future," James said.  Affected most by this decline are rural churches, which
   already struggle with population declines in their communities.
-datePublished: '2016-08-02T18:10:44.871Z'
-dateModified: '2016-08-02T18:10:37.150Z'
+datePublished: '2016-08-02T18:12:28.850Z'
+dateModified: '2016-08-02T18:12:26.993Z'
 author:
   - name: John Kruse
     url: ''
     avatar: {}
 related: []
 app_links: []
-title: 'As attendance falls, local church leaders focus on creating communities'
+title: >-
+  Quoted in "As Attendance Falls, Local Church Leaders Focus on Creating
+  Communities
 via: {}
+sourcePath: >-
+  _posts/2016-08-02-as-attendance-falls-local-church-leaders-focus-on-creating.md
 authors: []
 publisher:
   name: Telegraph Herald
@@ -37,10 +41,8 @@ publisher:
   url: 'http://www.thonline.com'
   favicon: 'http://www.thonline.com/favicon.ico'
 starred: false
-sourcePath: >-
-  _posts/2016-08-02-as-attendance-falls-local-church-leaders-focus-on-creating.md
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>As attendance falls, local church leaders focus on creating communities</h1><p>“A lot of churches have closed, and I expect more of them to follow in the future," James said.  Affected most by this decline are rural churches, which already struggle with population declines in their communities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ba1cc284140ffad75b283118aa1f3252/noop.jpg?input=http%3A%2F%2Fbloximages.newyork1.vip.townnews.com%2Fthonline.com%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2Fc%2F57%2Fc572cce9-62a0-5ff6-8025-77f703ab8ad6%2F57a00947a1c73.image.jpg%3Fcrop%3D1107%252C1328%252C5%252C518%26resize%3D526%252C630%26order%3Dcrop%252Cresize" /></article>
+<article style=""><h1>Quoted in "As Attendance Falls, Local Church Leaders Focus on Creating Communities</h1><p>“A lot of churches have closed, and I expect more of them to follow in the future," James said. Affected most by this decline are rural churches, which already struggle with population declines in their communities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ba1cc284140ffad75b283118aa1f3252/noop.jpg?input=http%3A%2F%2Fbloximages.newyork1.vip.townnews.com%2Fthonline.com%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2Fc%2F57%2Fc572cce9-62a0-5ff6-8025-77f703ab8ad6%2F57a00947a1c73.image.jpg%3Fcrop%3D1107%252C1328%252C5%252C518%26resize%3D526%252C630%26order%3Dcrop%252Cresize" /></article>
