@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Stories, articles and videos curated by Christopher B. James on church,
   culture, and neighborhoods. 
-datePublished: '2016-08-02T18:17:40.719Z'
-dateModified: '2016-08-02T18:17:26.419Z'
+datePublished: '2016-08-02T18:20:13.937Z'
+dateModified: '2016-08-02T18:20:13.052Z'
 author:
   - name: >-
       Click through for stories, articles and videos on church, culture, and
