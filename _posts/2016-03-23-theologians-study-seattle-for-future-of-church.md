@@ -20,8 +20,8 @@ description: >-
   The Pacific Northwest is often called the "None Zone" because of the number of
   people who claim no religious affiliation. Yet, theologians and sociologists
   are paying close attention to churches in Seattle.
-datePublished: '2016-08-02T18:23:25.849Z'
-dateModified: '2016-08-02T18:23:06.677Z'
+datePublished: '2016-08-02T18:26:41.508Z'
+dateModified: '2016-08-02T18:23:35.369Z'
 author:
   - name: Alison Morrow
     url: 'https://twitter.com/alisonmorrowk5'
