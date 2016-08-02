@@ -31,6 +31,9 @@ navigation:
   - name: TWITTER
     url: 'https://twitter.com/chrisbjames'
     type: external
+  - name: JESUS DUST
+    url: 'http://www.jesusdust.com/'
+    type: external
 favicon: null
 title: Christopher B. James
 purpose: []
