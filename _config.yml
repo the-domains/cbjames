@@ -28,6 +28,9 @@ navigation:
   - name: CHURCH NOW
     url: 'https://thegrid.ai/churchnow/'
     type: external
+  - name: TWITTER
+    url: 'https://twitter.com/chrisbjames'
+    type: external
 favicon: null
 title: Christopher B. James
 purpose: []
