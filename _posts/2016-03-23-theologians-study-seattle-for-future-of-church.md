@@ -20,14 +20,14 @@ description: >-
   The Pacific Northwest is often called the "None Zone" because of the number of
   people who claim no religious affiliation. Yet, theologians and sociologists
   are paying close attention to churches in Seattle.
-datePublished: '2016-08-02T18:17:05.490Z'
-dateModified: '2016-08-02T18:16:54.766Z'
+datePublished: '2016-08-02T18:23:25.849Z'
+dateModified: '2016-08-02T18:23:06.677Z'
 author:
   - name: Alison Morrow
     url: 'https://twitter.com/alisonmorrowk5'
 related: []
 app_links: []
-title: Featured in "Theologians Study Seattle for Future of 'Church'
+title: Featured in "Theologians Study Seattle for Future of 'Church'"
 sourcePath: _posts/2016-03-23-theologians-study-seattle-for-future-of-church.md
 via: {}
 authors: []
@@ -41,4 +41,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Featured in "Theologians Study Seattle for Future of 'Church'</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad2f08c16c13f8365fb7cf905fd48a5c967f7b59.jpg" /></article>
+<article style=""><h1>Featured in "Theologians Study Seattle for Future of 'Church'"</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad2f08c16c13f8365fb7cf905fd48a5c967f7b59.jpg" /></article>
