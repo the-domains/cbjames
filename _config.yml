@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: CHURCH NOW
+    url: 'https://thegrid.ai/churchnow/'
+    type: external
 favicon: null
 title: Christopher B. James
 purpose: []
