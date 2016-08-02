@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://dbq.academia.edu/cbjames'
 inLanguage: en
 keywords:
   - chur
@@ -17,8 +18,8 @@ keywords:
 description: >-
   Selected Articles on Missional Praxis, Spiritual Formation, and Congregational
   Studies. 
-datePublished: '2016-08-02T18:20:37.958Z'
-dateModified: '2016-08-02T18:20:36.767Z'
+datePublished: '2016-08-02T19:24:42.128Z'
+dateModified: '2016-08-02T19:16:05.819Z'
 author:
   - name: ''
     url: ''
@@ -34,7 +35,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: christopher-b-james-on-academiaedu/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
