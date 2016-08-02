@@ -17,8 +17,8 @@ keywords:
 description: >-
   Selected Articles on Missional Praxis, Spiritual Formation, and Congregational
   Studies. 
-datePublished: '2016-07-26T21:10:49.932Z'
-dateModified: '2016-07-26T21:10:42.547Z'
+datePublished: '2016-08-02T18:20:37.958Z'
+dateModified: '2016-08-02T18:20:36.767Z'
 author:
   - name: ''
     url: ''
@@ -29,9 +29,9 @@ sourcePath: _posts/2016-02-28-christopher-b-james-or-university-of-dubuque-acade
 via: {}
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
 url: christopher-b-james-on-academiaedu/index.html
