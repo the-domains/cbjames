@@ -34,6 +34,9 @@ navigation:
   - name: JESUS DUST
     url: 'http://www.jesusdust.com/'
     type: external
+  - name: ACADEMIA
+    url: 'https://dbq.academia.edu/cbjames'
+    type: external
 favicon: null
 title: Christopher B. James
 purpose: []
