@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[chrisbjames.com]]></title>
-        <description><![CDATA[chrisbjames.com]]></description>
+        <title><![CDATA[Christopher B. James]]></title>
+        <description><![CDATA[Christopher B. James]]></description>
         <link>http://chrisbjames.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 18:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 18:17:27 GMT</lastBuildDate>
         <atom:link href="http://chrisbjames.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Future Of Religion? A Researcher Looks To Seattle For Clues]]></title>
@@ -33,6 +33,13 @@
             <link>http://journalofmissionalpractice.com/rapid-response-to-practices-for-a-missional-church-planting-order-by-christopher-b-james/</link>
             <guid isPermaLink="false">98484fe0-49a1-4594-b598-4b12fe1c0efe</guid>
             <pubDate>Tue, 15 Mar 2016 13:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Featured in "Theologians Study Seattle for Future of 'Church']]></title>
+            <description><![CDATA[<article><h1>Featured in "Theologians Study Seattle for Future of 'Church'</h1><p>The Pacific Northwest is often called the "None Zone" because of the number of people who claim no religious affiliation. Yet, theologians and sociologists are paying close attention to churches in Seattle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad2f08c16c13f8365fb7cf905fd48a5c967f7b59.jpg"></article>]]></description>
+            <link>http://legacy.king5.com/story/news/local/seattle/2015/03/30/seattle-religious-affiliation-future-of-church/70687648/</link>
+            <guid isPermaLink="false">be237316-fb71-4b10-996c-fdce29a478f7</guid>
+            <pubDate>Tue, 02 Aug 2016 18:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quoted in "As Attendance Falls, Local Church Leaders Focus on Creating Communities]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.jesusdust.com/2015/05/new-wineskins-for-new-wine-my-interview.html</link>
             <guid isPermaLink="false">d46bd2cf-abf3-45b5-8237-5d3267b99f3f</guid>
             <pubDate>Tue, 26 Jul 2016 21:08:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theologians study Seattle for future of 'church']]></title>
-            <description><![CDATA[<article><h1>Theologians study Seattle for future of 'church'</h1><p>The Pacific Northwest is often called the "None Zone" because of the number of people who claim no religious affiliation. Yet, theologians and sociologists are paying close attention to churches in Seattle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad2f08c16c13f8365fb7cf905fd48a5c967f7b59.jpg"></article>]]></description>
-            <link>http://legacy.king5.com/story/news/local/seattle/2015/03/30/seattle-religious-affiliation-future-of-church/70687648/</link>
-            <guid isPermaLink="false">be237316-fb71-4b10-996c-fdce29a478f7</guid>
-            <pubDate>Fri, 15 Jul 2016 14:52:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
