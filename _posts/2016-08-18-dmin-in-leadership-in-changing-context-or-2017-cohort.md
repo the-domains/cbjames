@@ -9,14 +9,14 @@ description: >-
   faithful leadership it requires and develop the critical spiritual and
   missional practices that equip us to join God’s mission in the midst of our
   communities and neighborhoods.
-dateModified: '2016-08-18T21:08:23.069Z'
-datePublished: '2016-08-18T21:08:42.683Z'
+dateModified: '2016-08-18T21:10:11.456Z'
+datePublished: '2016-08-18T21:10:11.887Z'
 title: D.min in Leadership in Changing Context | 2017 Cohort
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-dmin-in-leadership-in-changing-context-or-2017-cohort.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
