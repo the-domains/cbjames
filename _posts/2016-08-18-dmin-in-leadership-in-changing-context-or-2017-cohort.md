@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-18T21:54:08.436Z'
+datePublished: '2016-08-18T21:57:00.208Z'
 sourcePath: _posts/2016-08-18-dmin-in-leadership-in-changing-context-or-2017-cohort.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-18T21:54:08.128Z'
+dateModified: '2016-08-18T21:56:59.478Z'
 title: D.min in Leadership in Changing Context | 2017 Cohort
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ description: >-
   communities and neighborhoods.
 starred: true
 url: dmin-in-leadership-in-changing-context-or-2017-cohort/index.html
-_type: Blurb
+_type: Article
 
 ---
 # D.min in Leadership in Changing Context | 2017 Cohort
