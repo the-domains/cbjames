@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-18T22:01:45.298Z'
+datePublished: '2016-08-18T22:10:35.542Z'
 sourcePath: _posts/2016-08-18-dmin-in-leadership-in-changing-context-or-2017-cohort.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-18T22:01:44.824Z'
+dateModified: '2016-08-18T22:10:35.167Z'
 title: D.min in Leadership in Changing Context | 2017
 publisher: {}
 description: >-
@@ -29,7 +29,7 @@ _type: Article
 Across the nation, pastors and church planters are encountering the reality that the church is in the midst of a season of dramatic cultural and religious shifts. These shifts have profound implications for ministry and mission. Led by Dr. Christopher James and Dr. Alan Roxburgh, this Doctor of Ministry Cohort at the University of Dubuque Theological Seminary will go on a journey of discerning the unique character of our emerging context, learn what kind of faithful leadership it requires and develop the critical spiritual and missional practices that equip us to join God's mission in the midst of our communities and neighborhoods.
 
 **Cohort Faculty**
-![Christopher B. James](https://the-grid-user-content.s3-us-west-2.amazonaws.com/664e49c1-c527-4c59-9da1-f2d3a22381a7.jpg)
+![Christopher B. James](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48f1e7db-7233-42b9-a7d3-5ed0658e5779.jpg)
 
 **Dr. Christopher B. James** | Assistant Professor of Evangelism and Missional Christianity at the University of Dubuque Theological Seminary, Author of the forthcoming book with Oxford University Press, _New Churches in the None Zone_, based on his research among church plants in Seattle, WA | [www.chrisbjames.com][0] | [@chrisbjames][1]
 ![Alan J. Roxburgh](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32e747c4-ba54-4aa1-b945-f0cc49115432.jpg)
@@ -50,7 +50,7 @@ Across the nation, pastors and church planters are encountering the reality that
 
 \* _Faithful Guides_: Unlike many D.min programs composed of various seminars and instructors, our cohort faculty---who are themselves scholar-practioners committed to following Jesus in their own ministry contexts---will see you through the program from start to finish.
 
-To learn more about this **Doctor of Ministry in Leadership in a Changing Context **beginning in 2017, contact [Christopher][5][][6][James][5] or [Richard ][7][Shaffer][8] at the [University of Dubuque Theological Seminary.][9]
+To learn more about this **Doctor of Ministry in Leadership in a Changing Context **beginning in 2017, contact [ChristopherJames][5] or [Richard ][6][Shaffer][7] at the [University of Dubuque Theological Seminary.][8]
 
 [0]: http://www.chrisbjames.com/
 [1]: http://www.twitter.com/chrisbjames
@@ -58,7 +58,6 @@ To learn more about this **Doctor of Ministry in Leadership in a Changing Contex
 [3]: https://www.amazon.com/Alan-J.-Roxburgh/e/B001JS65UQ/ref=sr_ntt_srch_lnk_1?qid=1471553413&sr=1-1 "Alan Roxburgh's Books"
 [4]: https://twitter.com/alanjroxburgh "Alan Roxburgh on Twitter"
 [5]: http://cjames@dbq.edu/
-[6]: http://mailto:%20cjames@dbq.edu/
-[7]: http://rshaffer@dbq.edu/
-[8]: http://mailto:%20rshaffer@dbq.edu/
-[9]: http://udts.dbq.edu/academics/degreeprograms/doctorofministry/ "Dmin at UDTS"
+[6]: http://rshaffer@dbq.edu/
+[7]: http://mailto:%20rshaffer@dbq.edu/
+[8]: http://udts.dbq.edu/academics/degreeprograms/doctorofministry/ "Dmin at UDTS"
