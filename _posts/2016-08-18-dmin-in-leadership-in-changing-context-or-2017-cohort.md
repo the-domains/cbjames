@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-18T21:10:47.161Z'
+sourcePath: _posts/2016-08-18-dmin-in-leadership-in-changing-context-or-2017-cohort.md
+author: []
+via: {}
+dateModified: '2016-08-18T21:10:46.402Z'
+title: D.min in Leadership in Changing Context | 2017 Cohort
+publisher: {}
 description: >-
   Across the nation, pastors and church planters are encountering the reality
   that the church is in the midst of a season of dramatic cultural and religious
@@ -9,13 +16,6 @@ description: >-
   faithful leadership it requires and develop the critical spiritual and
   missional practices that equip us to join God’s mission in the midst of our
   communities and neighborhoods.
-dateModified: '2016-08-18T21:10:11.456Z'
-datePublished: '2016-08-18T21:10:11.887Z'
-title: D.min in Leadership in Changing Context | 2017 Cohort
-author: []
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-18-dmin-in-leadership-in-changing-context-or-2017-cohort.md
 starred: true
 inFeed: true
 hasPage: false
@@ -24,7 +24,7 @@ _type: MediaObject
 
 ---
 # D.min in Leadership in Changing Context | 2017 Cohort
-![Bridge in Choluteca, Honduras](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c3884c-d05b-4db3-854e-90970832c390.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c3884c-d05b-4db3-854e-90970832c390.jpg)
 
 Across the nation, pastors and church planters are encountering the reality that the church is in the midst of a season of dramatic cultural and religious shifts. These shifts have profound implications for ministry and mission. Led by Dr. Christopher James and Dr. Alan Roxburgh, this Doctor of Ministry Cohort at the University of Dubuque Theological Seminary will go on a journey of discerning the unique character of our emerging context, learn what kind of faithful leadership it requires and develop the critical spiritual and missional practices that equip us to join God's mission in the midst of our communities and neighborhoods.
 
@@ -51,6 +51,8 @@ To learn more about this **Doctor of Ministry in Leadership in a Changing Contex
 \* _Practically-oriented_: Participants work closely with their congregation, ministry, and local community throughout, culminating in a doctoral project that serves to equip the people of God for faithful ministry in your local context.
 
 \* _Faithful Guides_: Unlike many D.min programs composed of various seminars and instructors, our cohort faculty---who are themselves scholar-practioners committed to following Jesus in their own ministry contexts---will see you through the program from start to finish.
+
+To learn more about this **Doctor of Ministry in Leadership in a Changing Context **beginning in 2017, contact [Christopher James][0] or [Richard Shaffer][1] at the [University of Dubuque Theological Seminary.][2]
 
 [0]: http://cjames@dbq.edu/
 [1]: http://rshaffer@dbq.edu/
