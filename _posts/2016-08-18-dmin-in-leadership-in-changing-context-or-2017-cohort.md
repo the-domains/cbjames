@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T21:14:53.562Z'
+datePublished: '2016-08-18T21:24:38.669Z'
 sourcePath: _posts/2016-08-18-dmin-in-leadership-in-changing-context-or-2017-cohort.md
 author: []
 via: {}
-dateModified: '2016-08-18T21:14:53.311Z'
+dateModified: '2016-08-18T21:24:38.220Z'
 title: D.min in Leadership in Changing Context | 2017 Cohort
 publisher: {}
 description: >-
@@ -24,7 +24,7 @@ _type: MediaObject
 
 ---
 # D.min in Leadership in Changing Context | 2017 Cohort
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c3884c-d05b-4db3-854e-90970832c390.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ac1bffc-bcfc-49fc-a153-49348c4b3619.jpg)
 
 Across the nation, pastors and church planters are encountering the reality that the church is in the midst of a season of dramatic cultural and religious shifts. These shifts have profound implications for ministry and mission. Led by Dr. Christopher James and Dr. Alan Roxburgh, this Doctor of Ministry Cohort at the University of Dubuque Theological Seminary will go on a journey of discerning the unique character of our emerging context, learn what kind of faithful leadership it requires and develop the critical spiritual and missional practices that equip us to join God's mission in the midst of our communities and neighborhoods.
 
