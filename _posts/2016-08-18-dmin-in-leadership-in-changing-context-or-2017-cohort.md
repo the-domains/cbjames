@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T21:24:38.669Z'
+datePublished: '2016-08-18T21:43:17.396Z'
 sourcePath: _posts/2016-08-18-dmin-in-leadership-in-changing-context-or-2017-cohort.md
 author: []
 via: {}
-dateModified: '2016-08-18T21:24:38.220Z'
+dateModified: '2016-08-18T21:43:17.034Z'
 title: D.min in Leadership in Changing Context | 2017 Cohort
 publisher: {}
 description: >-
