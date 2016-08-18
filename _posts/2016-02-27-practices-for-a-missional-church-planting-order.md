@@ -2,9 +2,9 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://journalofmissionalpractice.com/rapid-response-to-practices-for-a-missional-church-planting-order-by-christopher-b-james/'
+isBasedOnUrl: >-
+  http://journalofmissionalpractice.com/rapid-response-to-practices-for-a-missional-church-planting-order-by-christopher-b-james/
 inLanguage: en
-starred: true
 keywords:
   - spiritual
   - ignatius
@@ -16,11 +16,13 @@ keywords:
   - practices
   - rule
   - ignatian
-description: What practices can sustain missional practice and spiritual vitality among church planters?
-datePublished: '2016-03-15T13:55:08.655Z'
-dateModified: '2016-03-15T13:55:08.351Z'
+description: >-
+  What practices can sustain missional practice and spiritual vitality among
+  church planters?
+datePublished: '2016-08-18T21:15:18.254Z'
+dateModified: '2016-08-18T21:15:17.838Z'
 author:
-  - name: Christopher B James
+  - name: ''
     url: 'http://journalofmissionalpractice.com/author/christopher-b-james/'
     avatar: {}
   - name: Karen Reed
@@ -33,13 +35,15 @@ related: []
 app_links: []
 title: Practices for a Missional Church Planting Order
 sourcePath: _posts/2016-02-27-practices-for-a-missional-church-planting-order.md
-published: true
 authors: []
 publisher:
-  name: Journalofmissionalpractice
+  name: Journal of Missional Practice
   domain: journalofmissionalpractice.com
   url: 'http://journalofmissionalpractice.com'
-  favicon: 'http://journalofmissionalpractice.com/wp/wp-content/themes/fp_letour-child/favicon.ico'
+  favicon: >-
+    http://journalofmissionalpractice.com/wp/wp-content/themes/fp_letour-child/favicon.ico
+via: {}
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
