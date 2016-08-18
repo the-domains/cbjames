@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T21:10:47.161Z'
+datePublished: '2016-08-18T21:14:53.562Z'
 sourcePath: _posts/2016-08-18-dmin-in-leadership-in-changing-context-or-2017-cohort.md
 author: []
 via: {}
-dateModified: '2016-08-18T21:10:46.402Z'
+dateModified: '2016-08-18T21:14:53.311Z'
 title: D.min in Leadership in Changing Context | 2017 Cohort
 publisher: {}
 description: >-
@@ -33,10 +33,10 @@ To learn more about this **Doctor of Ministry in Leadership in a Changing Contex
 **Cohort Faculty**
 ![Christopher B. James](https://the-grid-user-content.s3-us-west-2.amazonaws.com/664e49c1-c527-4c59-9da1-f2d3a22381a7.jpg)
 
-**Dr. Christopher B. James** | Assistant Professor of Evangelism and Missional Christianity at the University of Dubuque Theological Seminary, Author of the forthcoming book with Oxford University Press, _New Churches in the None Zone_, based on his research among church plants in Seattle, WA | [www.chrisbjames.com][3] | @chrisbjames
+**Dr. Christopher B. James** | Assistant Professor of Evangelism and Missional Christianity at the University of Dubuque Theological Seminary, Author of the forthcoming book with Oxford University Press, _New Churches in the None Zone_, based on his research among church plants in Seattle, WA | [www.chrisbjames.com][3] | [@chrisbjames][4]
 ![Alan J. Roxburgh](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32e747c4-ba54-4aa1-b945-f0cc49115432.jpg)
 
-**Dr. Alan J. Roxburgh** | Founder and Consultant at _[The Missional Network][4]_, Author of [numerous books][5] including _Missional Map-making_, _Introducing the Missional Church_ (with Scott Boren), _Missional Leadership_ (with Scott Romanuk), _Missional: Joining God in the Neighborhood_, and, most recently, _Structured for Mission_ and _Joining God, Remaking Church, Changing the World: The New Shape of the Church in Our Time |_[@alanroxburgh][6]
+**Dr. Alan J. Roxburgh** | Founder and Consultant at _[The Missional Network][5]_, Author of [numerous books][6] including _Missional Map-making_, _Introducing the Missional Church_ (with Scott Boren), _Missional Leadership_ (with Scott Romanuk), _Missional: Joining God in the Neighborhood_, and, most recently, _Structured for Mission_ and _Joining God, Remaking Church, Changing the World: The New Shape of the Church in Our Time |_[@alanroxburgh][7]
 
 **Program Highlights**
 
@@ -58,6 +58,7 @@ To learn more about this **Doctor of Ministry in Leadership in a Changing Contex
 [1]: http://rshaffer@dbq.edu/
 [2]: http://udts.dbq.edu/academics/degreeprograms/doctorofministry/ "Dmin at UDTS"
 [3]: http://www.chrisbjames.com/
-[4]: http://themissionalnetwork.com/uncategorized/alan-roxburgh/ "Alan Roxburgh Bio"
-[5]: https://www.amazon.com/Alan-J.-Roxburgh/e/B001JS65UQ/ref=sr_ntt_srch_lnk_1?qid=1471553413&sr=1-1 "Alan Roxburgh's Books"
-[6]: https://twitter.com/alanjroxburgh "Alan Roxburgh on Twitter"
+[4]: http://www.twitter.com/chrisbjames
+[5]: http://themissionalnetwork.com/uncategorized/alan-roxburgh/ "Alan Roxburgh Bio"
+[6]: https://www.amazon.com/Alan-J.-Roxburgh/e/B001JS65UQ/ref=sr_ntt_srch_lnk_1?qid=1471553413&sr=1-1 "Alan Roxburgh's Books"
+[7]: https://twitter.com/alanjroxburgh "Alan Roxburgh on Twitter"
