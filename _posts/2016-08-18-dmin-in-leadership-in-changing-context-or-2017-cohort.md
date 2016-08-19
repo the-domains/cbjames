@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-19T14:42:49.597Z'
+datePublished: '2016-08-19T15:01:50.555Z'
 sourcePath: _posts/2016-08-18-dmin-in-leadership-in-changing-context-or-2017-cohort.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T14:42:47.582Z'
+dateModified: '2016-08-19T15:01:40.793Z'
 title: D.min in Leadership in Changing Context | 2017
 publisher: {}
 description: >-
@@ -29,12 +29,12 @@ _type: Article
 Across the nation, pastors and church planters are encountering the reality that the church is in the midst of a season of dramatic cultural and religious shifts. These shifts have profound implications for ministry and mission. Led by Dr. Christopher James and Dr. Alan Roxburgh, this Doctor of Ministry Cohort at the University of Dubuque Theological Seminary will go on a journey of discerning the unique character of our emerging context, learn what kind of faithful leadership it requires and develop the critical spiritual and missional practices that equip us to join God's mission in the midst of our communities and neighborhoods.
 
 **Cohort Faculty**
-![Christopher B. James](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ce7f8b7-a01a-4522-ae44-825c62e9abd3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b936b754-853f-4f2c-88aa-c96fca1faf63.jpg)
 
 **Dr. Christopher B. James** | Assistant Professor of Evangelism and Missional Christianity at the University of Dubuque Theological Seminary, Author of the forthcoming book with Oxford University Press, _New Churches in the None Zone_, based on his research among church plants in Seattle, WA | [www.chrisbjames.com][0] | [@chrisbjames][1]
 ![Alan J. Roxburgh](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32e747c4-ba54-4aa1-b945-f0cc49115432.jpg)
 
-**Dr. Alan J. Roxburgh** | Founder and Consultant at _[The Missional Network][2]_, Author of [numerous books][3] including _Missional Map-making_, _Introducing the Missional Church_ (with Scott Boren), _Missional Leadership_ (with Scott Romanuk), _Missional: Joining God in the Neighborhood_, and, most recently, _Structured for Mission_ and _Joining God, Remaking Church, Changing the World: The New Shape of the Church in Our Time |_[@alanroxburgh][4]
+**Dr. Alan J. Roxburgh** | Founder and Consultant at _[The Missional Network][2]_, Author of [numerous books][3] including _Missional Map-making_, _Introducing the Missional Church_ (with Scott Boren), _Missional Leadership_ (with Scott Romanuk), _Missional: Joining God in the Neighborhood_, and, most recently, _Structured for Mission_ and _Joining God, Remaking Church, Changing the World: The New Shape of the Church in Our Time | _[@alanroxburgh][4]
 
 **Program Highlights**
 
