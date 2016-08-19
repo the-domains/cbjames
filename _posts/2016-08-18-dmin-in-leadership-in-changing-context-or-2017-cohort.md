@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-19T15:01:50.555Z'
+datePublished: '2016-08-19T15:08:15.073Z'
 sourcePath: _posts/2016-08-18-dmin-in-leadership-in-changing-context-or-2017-cohort.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T15:01:40.793Z'
+dateModified: '2016-08-19T15:08:12.570Z'
 title: D.min in Leadership in Changing Context | 2017
 publisher: {}
 description: >-
@@ -29,7 +29,7 @@ _type: Article
 Across the nation, pastors and church planters are encountering the reality that the church is in the midst of a season of dramatic cultural and religious shifts. These shifts have profound implications for ministry and mission. Led by Dr. Christopher James and Dr. Alan Roxburgh, this Doctor of Ministry Cohort at the University of Dubuque Theological Seminary will go on a journey of discerning the unique character of our emerging context, learn what kind of faithful leadership it requires and develop the critical spiritual and missional practices that equip us to join God's mission in the midst of our communities and neighborhoods.
 
 **Cohort Faculty**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b936b754-853f-4f2c-88aa-c96fca1faf63.jpg)
+![Christopher B. James](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b936b754-853f-4f2c-88aa-c96fca1faf63.jpg)
 
 **Dr. Christopher B. James** | Assistant Professor of Evangelism and Missional Christianity at the University of Dubuque Theological Seminary, Author of the forthcoming book with Oxford University Press, _New Churches in the None Zone_, based on his research among church plants in Seattle, WA | [www.chrisbjames.com][0] | [@chrisbjames][1]
 ![Alan J. Roxburgh](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32e747c4-ba54-4aa1-b945-f0cc49115432.jpg)
