@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-18T22:19:40.583Z'
+datePublished: '2016-08-19T13:50:00.548Z'
 sourcePath: _posts/2016-08-18-dmin-in-leadership-in-changing-context-or-2017-cohort.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-18T22:19:39.912Z'
+dateModified: '2016-08-19T13:49:59.830Z'
 title: D.min in Leadership in Changing Context | 2017
 publisher: {}
 description: >-
@@ -40,7 +40,7 @@ Across the nation, pastors and church planters are encountering the reality that
 
 \* _Community_: Cohorts form significant friendships and a network of fellow practioners from across the country.
 
-\* _Year Round Interaction_: This program combines three annual one-week residencies, with fall and spring online interaction. Participants have access to the faculty members throughout the year as both instructors and mentors.
+\* _Year Round Interaction_: This program combines three annual one-week residencies in late May, with fall and spring online interaction. Participants have access to the faculty members throughout the year as both instructors and mentors.
 
 \* _Theological Depth_: The program guides participants in careful study and biblical reflection on the nature and practical significance of missional ecclesiology.
 
@@ -50,7 +50,7 @@ Across the nation, pastors and church planters are encountering the reality that
 
 \* _Faithful Guides_: Unlike many D.min programs composed of various seminars and instructors, our cohort faculty---who are themselves scholar-practioners committed to following Jesus in their own ministry contexts---will see you through the program from start to finish.
 
-To learn more about this **Doctor of Ministry in Leadership in a Changing Context **beginning in 2017, contact [ChristopherJames][5] or [Richard ][6][Shaffer][7] at the [University of Dubuque Theological Seminary.][8]
+To learn more about this **Doctor of Ministry in Leadership in a Changing Context **beginning in 2017, contact [Christopher James][5] or [Richard ][6][Shaffer][7] at the [University of Dubuque Theological Seminary.][8] Or complete an online application [here][9]. 
 
 [0]: http://www.chrisbjames.com/
 [1]: http://www.twitter.com/chrisbjames
@@ -61,3 +61,4 @@ To learn more about this **Doctor of Ministry in Leadership in a Changing Contex
 [6]: http://rshaffer@dbq.edu/
 [7]: http://mailto:%20rshaffer@dbq.edu/
 [8]: http://udts.dbq.edu/academics/degreeprograms/doctorofministry/ "Dmin at UDTS"
+[9]: https://udtsdbq.hobsonsradius.com/ssc/aform/G00z4w877070x6700kKxK.ssc
