@@ -1,43 +1,55 @@
-typography_spectrum: 0.3981864133384079
+description: equipping the church for a changing context
+title: Christopher B. James
+navigation:
+  - url: 'https://thegrid.ai/churchnow/'
+    name: CHURCH NOW
+    type: external
+  - url: 'https://twitter.com/chrisbjames'
+    name: TWITTER
+    type: external
+  - url: 'http://www.jesusdust.com/'
+    name: JESUS DUST
+    type: external
+  - url: 'https://dbq.academia.edu/cbjames'
+    name: ACADEMIA
+    type: external
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.6531915
+favicon: null
+name: Christopher B. James
+purpose: []
+analytics:
+  twitter: null
+  google: UA-754-555-68-1
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.1650648638606071
+  saturation: 0.4164852616377175
   brandColors:
     - '#22264B'
     - '#F9DDB6'
     - '#9BA9D6'
     - '#FDA540'
     - '#6578BD'
-  brandStrength: 0.16506486386060715
   lightness: 0.03896871488541365
-  saturation: 0.4164852616377175
   rhythmicContrast: 0.0259141200222075
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.05055201495997608
-analytics:
-  google: UA-754-555-68-1
-  facebook: null
-  twitter: null
-name: Christopher B. James
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: CHURCH NOW
-    url: 'https://thegrid.ai/churchnow/'
-    type: external
-  - name: TWITTER
-    url: 'https://twitter.com/chrisbjames'
-    type: external
-  - name: JESUS DUST
-    url: 'http://www.jesusdust.com/'
-    type: external
-  - name: ACADEMIA
-    url: 'https://dbq.academia.edu/cbjames'
-    type: external
-favicon: null
-title: Christopher B. James
-description: equipping the church for a changing context
-purpose: []
+typography_spectrum: 0.3981864133384079
